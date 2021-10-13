@@ -20,3 +20,6 @@ slug: /
 
 * [Applikasjon](https://teamkatalog.nais.adeo.no). Teamkatalogen
 * [Applikasjon Test](https://teamkatalog.dev.adeo.no/). Teamkatalogen (Test)
+
+
+Seal icon made by [Freepik](https://www.freepik.com) from [Flaticon](https://www.flaticon.com/).

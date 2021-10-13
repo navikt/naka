@@ -42,7 +42,7 @@ const config = {
         title: 'NAKA',
         logo: {
           alt: 'NAKA logo',
-          src: 'img/logo.svg',
+          src: 'img/seal.png',
         },
         items: [
           {
