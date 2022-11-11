@@ -1,5 +1,5 @@
 ---
-title:Etterlevelse / Støtte til etterlevelse
+title: Etterlevelse - Støtte til etterlevelse
 ---
 
 ## Hva er produktet?
