@@ -27,7 +27,7 @@ Behandlingskatalogen skal først og fremst gi en komplett oversikt over alle beh
 * Hva er alle behandlinger som utføres et sted i linja, f.eks. NAV Familie og pensjonsytelser?
 * Hva er alle behandlinger som har IT-systemer som et gitt produktteam forvalter, f.eks. Team Bidrag?
 * Hvilke personopplysninger er det lov å bruke ifm. en behandling, f.eks. saksbehandling av sykepenger?
-++
+
 
 ## Hvordan komme i gang?
 Lenker til løsningen finnes under. 
@@ -46,7 +46,7 @@ Alle i NAV har både les- og skrivtilgang til løsningen i preprod:[Behandlingsk
 
 
 ## Kontaktinformasjon
-Team datajegerne har utviklet og forvalter løsningen. Du kan nå oss på slack [#behandlingskatalogen](https://nav-it.slack.com/archives/CR1B19E6L)
+[Team Datajegerne](https://teamkatalog.nav.no/team/264cebfa-ad46-4af9-8867-592f99f491e6) utvikler og forvalter løsningen. Du kan nå teamet på slack [#behandlingskatalogen](https://nav-it.slack.com/archives/CR1B19E6L)
 
 
 ## Litt om arkitektur
@@ -72,7 +72,7 @@ Eksterne kilder til data inkluderer teamkatalogen og begrepskatalogen og felles 
 * [Behandlingskatalogen datasett](https://data.adeo.no/datapakke/37427aeae539aba2dee2c40ae4ac9319) (mangelfullt, under arbeid)
 
 ### Tilgang og headers
-Api er åpent for lesing uten innlogging. Enkelte funksjoner (som ikke er naturlig at andre system ikke skal ha tilgang til) er begrenset, samt skriving. Kontakt #datajegerne for mer info.
+API er åpent for lesing uten innlogging. Enkelte funksjoner (som ikke er naturlig at andre system ikke skal ha tilgang til) er begrenset, samt skriving. Kontakt #datajegerne for mer info.
 
 Headers
 * Authorizaion - Systemer kan sende med Azure access token som Bearer token
