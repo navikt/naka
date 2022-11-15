@@ -72,10 +72,11 @@ Eksterne kilder til data inkluderer teamkatalogen og begrepskatalogen og felles 
 * [Behandlingskatalogen datasett](https://data.adeo.no/datapakke/37427aeae539aba2dee2c40ae4ac9319) (mangelfullt, under arbeid)
 
 ### Tilgang og headers
-API er åpent for lesing uten innlogging. Enkelte funksjoner (som ikke er naturlig at andre system ikke skal ha tilgang til) er begrenset, samt skriving. Kontakt #datajegerne for mer info.
+API er åpent for lesing for alle Nav-ansatte på en Nav-innrullert enhet, men eksponeres ikke eksternt utenfor Nav. 
+Skriving og enkelte administrative funksjoner er begrenset med rollestyring. Kontakt på #behandlingskatalogen for mer info.
 
 Headers
-* Authorizaion - Systemer kan sende med Azure access token som Bearer token
+* Authorization - Systemer kan sende med Azure access token som Bearer token
 * Nav-Call-Id - optional callId/correlation id to set for log tracing
 * Nav-Consumer-Id - optional but strongly suggested to trace source of requests
 
