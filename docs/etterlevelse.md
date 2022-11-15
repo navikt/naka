@@ -54,9 +54,10 @@ Dette er en ny løsning som erstatter det tidligere regnearket med 136 etterleve
 * [Etterlevelsesdokumentasjon i Metabase](https://metabase.intern.nav.no/browse/96-teamdatajegerne-etterlevelse-etterlevelse)
 
 ### Tilgang og headers
-API er åpent for lesing uten innlogging. Enkelte funksjoner (som ikke er naturlig at andre system ikke skal ha tilgang til) er begrenset. Kontakt #datajegerne for mer info.
+API er åpent for lesing for alle Nav-ansatte på en Nav-innrullert enhet, men eksponeres ikke eksternt utenfor Nav. 
+Enkelte funksjoner er begrenset med rollestyring. Kontakt på #etterlevelse for mer info.
 
 Headers
-* Authorizaion - Systemer kan sende med Azure access token som Bearer token
+* Authorization - Systemer kan sende med Azure access token som Bearer token
 * Nav-Call-Id - optional callId/correlation id to set for log tracing
 * Nav-Consumer-Id - optional but strongly suggested to trace source of requests
