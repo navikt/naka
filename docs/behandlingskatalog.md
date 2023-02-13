@@ -38,8 +38,7 @@ For de av dere som skal dokumentere en hel behandling, velg _behandling_ i venst
 Et godt tips her er å gå inn på _+ Dokument_ og deretter velge _Standard opplysningstyper_, som da vil legge til noen titalls standard opplysningstyper på en gang. 
 
 **Produksjon**
-Alle i NAV har leserettigheter til løsningen: [Behandlingskatalogen](https://behandlingskatalog.nais.adeo.no)
-Skrivtilgang gis til utvalgte som har behov for det. Kontakt teamet på slack for tilgang. 
+Alle NAV-ansatte har tilgang til løsningen: [Behandlingskatalogen](https://behandlingskatalog.nais.adeo.no). 
 
 **Test / Preprod**
 Alle i NAV har både les- og skrivtilgang til løsningen i preprod:[Behandlingskatalogen (Test)](https://behandlingskatalog.nais.preprod.local)
