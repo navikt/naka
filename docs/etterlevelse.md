@@ -9,8 +9,6 @@ Kravinnholdet under et tema, forvaltes av de som har ansvaret for lovtolkning i 
 
 Etterlevelsekrav, etterlevelsesdokumentasjon og statistikk på dokumentert etterlevelse gjøres så åpent tilgjengelig som mulig. 
 
-Løsningen er i pilotdrift.
-
 
 ### Hva brukes produktet til?
 Produktet adresserer:
@@ -23,10 +21,6 @@ Produktet adresserer:
   * eksport av dokumentert etterlevelse til Word
   * arkivering av dokumentert etterlevelse til Websak
 
-
-### Hvordan komme i gang?
-Dette er en ny løsning som erstatter det tidligere regnearket med 136 etterlevelseskrav. Løsning og innhold er i pilotering og endres fortløpende. Ta kontakt på Slack [#etterlevelse](https://nav-it.slack.com/archives/C01V697SSR2 og be om en introduksjon og deltakelse i pilotering.
-
 ### Lenker
 * [Om etterlevelsekrav i systemutvikling på Navet](https://navno.sharepoint.com/sites/intranett-utvikling/SitePages/Etterlevelseskrav.aspx)
 * [Etterlevelse (prod)](https://etterlevelse.intern.nav.no/)
@@ -35,7 +29,6 @@ Dette er en ny løsning som erstatter det tidligere regnearket med 136 etterleve
 
 ### Kontaktinformasjon
 [Team Datajegerne](https://teamkatalog.nav.no/team/264cebfa-ad46-4af9-8867-592f99f491e6) utvikler og forvalter løsningen. Du kan nå teamet på slack [#etterlevelse](https://nav-it.slack.com/archives/C01V697SSR2)
-
 
 ### Administratorfunksjoner
 * Administrasjon av tilgang til applikasjonen for kraveier og administrator.
