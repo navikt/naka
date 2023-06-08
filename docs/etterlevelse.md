@@ -30,7 +30,7 @@ Dette er en ny løsning som erstatter det tidligere regnearket med 136 etterleve
 ### Lenker
 * [Om etterlevelsekrav i systemutvikling på Navet](https://navno.sharepoint.com/sites/intranett-utvikling/SitePages/Etterlevelseskrav.aspx)
 * [Etterlevelse (prod)](https://etterlevelse.intern.nav.no/)
-* [Etterlevelse (test)](https://etterlevelse.dev.intern.nav.no/)
+* [Etterlevelse (test)](https://etterlevelse.intern.dev.nav.no/)
 * ["Om" seksjonen i selve løsningen](https://etterlevelse.intern.nav.no/help)
 
 ### Kontaktinformasjon
