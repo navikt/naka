@@ -38,10 +38,10 @@ For de av dere som skal dokumentere en hel behandling, velg _behandling_ i venst
 Et godt tips her er å gå inn på _+ Dokument_ og deretter velge _Standard opplysningstyper_, som da vil legge til noen titalls standard opplysningstyper på en gang. 
 
 **Produksjon**
-Alle NAV-ansatte har tilgang til løsningen: [Behandlingskatalogen](https://behandlingskatalog.nais.adeo.no). 
+Alle NAV-ansatte har tilgang til løsningen: [Behandlingskatalogen](https://behandlingskatalog.intern.nav.no/). 
 
 **Test / Preprod**
-Alle i NAV har både lese- og skrivetilgang til løsningen i preprod:[Behandlingskatalogen (Test)](https://behandlingskatalog.dev.adeo.no/)
+Alle i NAV har både lese- og skrivetilgang til løsningen i preprod:[Behandlingskatalogen (Test)](https://behandlingskatalog.intern.dev.nav.no//)
 
 
 ## Kontaktinformasjon
@@ -64,8 +64,8 @@ Eksterne kilder til data inkluderer teamkatalogen og begrepskatalogen og felles 
 * [Repo](https://github.com/navikt/polly)
 
 ### API
-* [Swagger API](https://polly.nais.adeo.no/swagger-ui.html)
-* [Swagger API (Test)](https://polly.dev.adeo.no/swagger-ui.html)
+* [Swagger API](https://behandlingskatalog-backend.intern.nav.no/swagger-ui/index.html)
+* [Swagger API (Test)](https://behandlingskatalog-backend.intern.dev.nav.no/swagger-ui/index.html)
 
 ### Datasett
 * [Behandlingskatalogen datasett](https://data.adeo.no/datapakke/37427aeae539aba2dee2c40ae4ac9319) (mangelfullt, under arbeid)
