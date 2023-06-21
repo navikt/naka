@@ -41,7 +41,7 @@ Et godt tips her er å gå inn på _+ Dokument_ og deretter velge _Standard oppl
 Alle NAV-ansatte har tilgang til løsningen: [Behandlingskatalogen](https://behandlingskatalog.intern.nav.no/). 
 
 **Test / Preprod**
-Alle i NAV har både lese- og skrivetilgang til løsningen i preprod:[Behandlingskatalogen (Test)](https://behandlingskatalog.intern.dev.nav.no//)
+Alle i NAV har både lese- og skrivetilgang til løsningen i preprod:[Behandlingskatalogen (Test)](https://behandlingskatalog.intern.dev.nav.no/)
 
 
 ## Kontaktinformasjon
