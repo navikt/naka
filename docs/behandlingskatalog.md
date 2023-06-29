@@ -2,6 +2,10 @@
 title: Behandlingskatalog
 ---
 
+https://github.com/navikt/naka/blob/main/static/img/3%20Opprett%20behandling.png
+![image](https://github.com/navikt/naka/assets/138101809/5f8faf7b-c886-49a4-b608-2c2ae25c5e29)
+
+
 ## Hva er produktet?
 Behandlingskatalogen gir en oversikt over alle behandlinger NAV gjør med personopplysninger. Eksempler på behandlinger kan være å saksbehandle alderspensjon, gi bruker innsyn i personopplysninger, utarbeide arbeidsmarkedsstatistikk, gjennomføre medarbeidersamtale osv. 
 
