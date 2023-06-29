@@ -78,5 +78,3 @@ Headers
 * Authorization - Systemer kan sende med Azure access token som Bearer token
 * Nav-Call-Id - optional callId/correlation id to set for log tracing
 * Nav-Consumer-Id - optional but strongly suggested to trace source of requests
-
-![alt text](https://github.com/navikt/naka/blob/main/static/img/seal.png)
