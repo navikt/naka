@@ -23,7 +23,7 @@ Det er flere begreper innenfor personvern det kan være nyttig å ha kjennskap t
 ## 2.	Introduksjon til veilederen  og ansvarsfordeling
 Denne veilederen er ment som hjelp og støtte til forvaltning og utfylling av innholdet i Behandlingskatalogen.
 
-Veilederen beskriver hvem som har ansvaret og hvordan Behandlingskatalogen skal oppdateres.  Behandlingskatalogen er tilgjengelig for alle medarbeidere i NAV og er tilgjengelig på ![alt text](https://behandlingskatalog.intern.nav.no/).
+Veilederen beskriver hvem som har ansvaret og hvordan Behandlingskatalogen skal oppdateres.  Behandlingskatalogen er tilgjengelig for alle medarbeidere i NAV og er tilgjengelig på https://behandlingskatalog.intern.nav.no/ .
 Veilederen beskriver hvilken informasjon som skal registreres for hver behandlingsaktivitet, og den gir eksempler på kategorier eller alternativer der det er relevant. 
 
 ### 2.1 Hvem har ansvaret for Behandlingskatalogen
