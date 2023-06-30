@@ -2,13 +2,12 @@
 title: Veileder til Behandlingskatalogen - forvaltning og utfylling
 ---
 
-![](https://github.com/navikt/naka/blob/main/static/img/3%20Opprett%20behandling.png)) 
+
 
 
 
 ## 1.	Hva  er en behandlingsoversikt, og hvorfor er det nødvendig ? 
-Alle virk![image](https://github.com/navikt/naka/assets/138101809/f747dc2b-b91a-403d-bc2f-419da56f057f)
-somheter som behandler personopplysninger, har en plikt til å føre en oversikt (protokoll) over alle behandlingsaktiviteter som gjøres i sin virksomhet. Dette gjelder alle handlinger som gjøres ved å behandle personopplysninger, som når vi henter dem inn, når vi sammenstiller dem, når vi søker, når vi lagrer, bruker, utleverer, anonymiserer og sletter personopplysninger. For NAV betyr det alle aktiviteter på Arbeids- og velferdsetatens ansvarsområde: direktoratet og enheter i linjene må lage en oversikt på sine områder, og hver kommune har plikt til å føre en oversikt for sine ansvarsområder i NAV-kontoret.
+Alle virksomheter som behandler personopplysninger, har en plikt til å føre en oversikt (protokoll) over alle behandlingsaktiviteter som gjøres i sin virksomhet. Dette gjelder alle handlinger som gjøres ved å behandle personopplysninger, som når vi henter dem inn, når vi sammenstiller dem, når vi søker, når vi lagrer, bruker, utleverer, anonymiserer og sletter personopplysninger. For NAV betyr det alle aktiviteter på Arbeids- og velferdsetatens ansvarsområde: direktoratet og enheter i linjene må lage en oversikt på sine områder, og hver kommune har plikt til å føre en oversikt for sine ansvarsområder i NAV-kontoret.
 NAV har laget en egen systemløsning, Behandlingskatalogen, som er et godt hjelpemiddel når vi skal dokumentere at vi etterlever pliktene vi har som behandlingsansvarlig   etter artikkel 30 i personvernforordningen. Behandlingskatalogen gir oss kontroll og oversikt over NAVs behandling av personopplysninger og beskytter rettighetene til alle vi har opplysninger om.
 Artikkel 30 i personvernforordningen stiller en rekke obligatoriske krav til hva en behandlingsoversikt skal inneholde av informasjon.
 Det er flere begreper innenfor personvern det kan være nyttig å ha kjennskap til før registrering i behandlingskatalogen. Disse er definert   og utdypet på personvernsidene våre på Navet  og i Begrepskatalogen. Det kan være nyttig å kjenne til følgende begreper:
@@ -57,6 +56,7 @@ Behandlingskatalogen har en funksjon for å eksportere behandlingsaktivitetene t
 
 ## 3.	Utfylling av feltene i Behandlingskatalogen 
  
+![](https://github.com/navikt/naka/blob/main/static/img/3%20Opprett%20behandling.png))  
 
 Registreringsbildet i Behandlingskatalogen ser slik ut. Det er lagt inn hjelpetekster til de ulike feltene som kommer frem når man holder musepekeren over det blå ikonet med et spørsmålstegn. 
 
@@ -64,8 +64,8 @@ Det er også viktig å merke seg at den som registrerer må huke av i registreri
 
 ### 3.1	Hvilken behandlingsaktivitet brukes personopplysningene til?
 
+![](https://github.com/navikt/naka/blob/main/static/img/3.1.%20Navn%20p%C3%A5%20behandling.png)
  
-
 Behandlingskatalogen er inndelt i to nivåer av behandlinger: Overordnet behandlingsaktivitet og behandling. De overordnede behandlingsaktivitetene er standardiserte, mens man selv fyller inn tittelen på behandlingen i et fritekstfelt (markert med «Navn»).
 
 Eksempler på ulike overordnede behandlingsaktiviteter: Oppfølging mot arbeid, erstatningskrav, forvaltning av registre, medarbeideroppfølging, hjelpemidler, eiendomsforvaltning, barnetrygd og alderspensjon.
@@ -85,7 +85,7 @@ Behandlingsgrunnlaget følger av folketrygdlovens kap. 10 og er utøvelse av off
 
 ### 3.2	Hva er formålet  med behandlingen av personopplysningene?
 
- 
+![](https://github.com/navikt/naka/blob/main/static/img/3.2.%20Form%C3%A5let%20med%20behandlingen.png)  
 
 Angi formålet med innsamling og bruk av personopplysningene innen tjeneste- eller fagområdet. Formålet skal være spesifikt og legitimt. Det betyr at formålet må angis slik at det er tydelig at det er dekket av behandlingsgrunnlaget. Formålene vil for NAV sin del ofte følge av lovbestemmelsen/kapittelet i folketrygdloven eller NAV-loven som er behandlingsgrunnlaget for den aktuelle behandlingen. Dersom opplysningene skal brukes til flere formål, vil det si at det i praksis er snakk om flere ulike behandlinger. Det må derfor også registreres som flere behandlinger i Behandlingskatalogen. 
 
@@ -100,7 +100,7 @@ Eksempel på beskrivelse av formål :
 
 ### 3.3	Hvem er ansvarlig for behandlingen?
 
- 
+![](https://github.com/navikt/naka/blob/main/static/img/3.3%20Ansvarlig%20for%20behandlingen.png) 
 
 Hver avdeling skal registrere de behandlingsaktivitetene som de har fagansvaret og eventuelt linjeansvaret for. 
 
@@ -111,7 +111,8 @@ Eksempel:
  Avdeling: Ytelsesavdelingen. Linja:  NAV Familie- og pensjonsytelser. Team: Pensjon Saksbehandling.
 
 ### 3.4	Hva er behandlingsgrunnlaget for behandlingen?
- 
+
+![](https://github.com/navikt/naka/blob/main/static/img/3.4.%20Behandlingsgrunnlag.png) 
 
 All behandling av personopplysninger må ha et behandlingsgrunnlag.
 Oppgi hvilket behandlingsgrunnlag som ligger til grunn for behandlingen. Ifølge personvernforordningen er det seks mulige rettsgrunnlag som kan benyttes, og det er laget en nedtrekksmeny i registreringsbildet. Dersom det er to rettslige grunnlag som ligger til grunn for behandlingen, tilsier det at området eller aktiviteten må splittes opp i to registreringer.
@@ -130,6 +131,7 @@ Behandling av særlige kategorier av personopplysninger er i utgangspunktet ikke
 
 ### 3.5	Blir det gjort helautomatiserte individuelle avgjørelser og brukes profilering?
   
+![](https://github.com/navikt/naka/blob/main/static/img/3.5%20Automatisernig%20og%20profilering.png)
 
 **Helautomatiserte avgjørelser**  
 Tas det avgjørelser som gjelder en person uten at det gjøres noen menneskelige vurderinger, må det angis at behandlingen er helautomatisert. For at det skal være snakk om en helautomatisk avgjørelse, må det dreie seg om avgjørelser som har rettsvirkninger eller som har store konsekvenser for den enkelte. Under dette punktet registreres det «Ja», «Nei» eller «Uavklart». Dersom det registreres at det er uavklart, må dette avklares omgående og etterregistreres. Områder der vedtaksprosessen i dag er helautomatisert, er barnetrygd, pensjon og foreldrepengeområdet.
@@ -142,13 +144,14 @@ Under dette punktet registreres det «Ja», «Nei» eller «Uavklart». Dersom d
 ### 3.6	Databehandlere og andre tredjeparter
 **Benyttes det databehandler(e)?**  
 
-
+![](https://github.com/navikt/naka/blob/main/static/img/3.6%20Databehandler.png)
 
 Dersom det benyttes databehandlere, skal dette oppgis her. Svar «Ja», «Nei» eller «Uavklart» i dette feltet. Dersom du svarer «Ja», skal databehandleren velges fra nedtrekksmenyen. Dersom du svarer «Uavklart», skal dette undersøkes omgående og oppdateres i registreringen.
 
 Hvis ikke databehandleren er oppført i nedtrekksmenyen, kan den legges til under «Databehandlere» i venstremenyen (se markering på bildet nedenfor) og deretter «Opprett ny databehandler» (se markering på bildet nedenfor). Du skal da også registrere om databehandleren behandler personopplysninger utenfor EU/EØS, og ev. i hvilket land.
 
-
+![](https://github.com/navikt/naka/blob/main/static/img/3.6%20Legg%20til%20Databehandler.png)
+![](https://github.com/navikt/naka/blob/main/static/img/3.6%20Legg%20til%20Databehandler%202.png)
 
 Eksempler på databehandlere:
 *	leverandører av IT-systemer
@@ -158,11 +161,14 @@ Eksempler på databehandlere:
 *	en annen offentlig virksomhet som gjør et oppdrag på vegne av NAV
 
 **Utleveres personopplysningene til andre utenfor NAV?**  
+
+![](https://github.com/navikt/naka/blob/main/static/img/3.6%20Utlevering.png)
+
 Her oppgir du hvilke eksterne virksomheter NAV utleverer personopplysninger til, dersom dette gjøres som en del av behandlingen. Det omfatter utlevering som bygger på lovhjemler, og der NAV har en rett eller plikt til å utlevere personopplysninger. Kun regelmessige utleveringer skal oppgis. 
 
 Utleveringene NAV gjør skal være tilgjengelig nedtrekksmenyen i løsningen. Hvis ikke du finner den der, går du inn på «Utleveringer» i venstremenyen (se markering) og deretter «Opprett ny» til høyre i løsningen (se markering på bildet nedenfor).
 
-
+![](https://github.com/navikt/naka/blob/main/static/img/3.6%20Legg%20til%20Utlevering.png)
 
 **Overføres det personopplysninger til land eller virksomheter utenfor EU/EØS?**  
 Dersom personopplysninger overføres til databehandlere eller andre behandlingsansvarlige som opererer  i eller har tilknytning til et land utenfor EU/EØS, må det foreligge et behandlingsgrunnlag for denne overføringen.
@@ -190,11 +196,15 @@ Eksempler:
 Angi i hvilke systemer personopplysninger behandles. Med systemer mener vi både interne og eksterne IT-systemer, apper, skytjeneser og plattformer og fysiske og digitale arkiv. Dersom du ikke finner systemet i nedtrekksmenyen i løsningen, må det bes om at det aktuelle systemet legges til, i kanalen #behandlingskatalogen på Slack.
 
 ### 3.8	Hvilken tidsfrist har dere satt for hvor lenge personopplysningene skal lagres?
+
+![](https://github.com/navikt/naka/blob/main/static/img/3.8%20Lagringsbehov.png)
  
 Etter personvernforordningen skal personopplysninger ikke lagres lenger enn nødvendig for å gjennomføre formålet de er samlet inn for. Etter det skal de slettes. Det er hovedregelen med mindre annen lovgivning pålegger lengre lagringstid, som for eksempel arkivlovgivning og regnskapslovgivning.
 Oppgi om behandlingen omfattes av NAVs bevarings- og kassasjonsvedtak  og hvor lenge opplysningene skal lagres. Vis til begrunnelsen for lagringstid ved å legge inn referanse til aktuelt skjema for lagring på Confluence  eller i Websak. 
 
 ### 3.9	Personvernkonsekvensvurdering (PVK)
+
+![](https://github.com/navikt/naka/blob/main/static/img/3.9%20PVK.png)
  
 Oppgi om det er behov for PVK ved å velge «Ja», «Nei» eller «Uavklart». Dersom det angis at det er «Uavklart» må dette vurderes omgående og oppdateres i løsningen. Hvis det er behov for å gjennomføre PVK skal referansen til PVK-en i Websak legges til. Hvis man kommer til at det ikke er behov for å gjennomføre PVK, må det velges en begrunnelse for dette. 
 
