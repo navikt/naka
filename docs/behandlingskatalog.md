@@ -2,12 +2,13 @@
 title: Veileder til Behandlingskatalogen - forvaltning og utfylling
 ---
 
-![alt text](https://github.com/navikt/naka/assets/138101809/5f8faf7b-c886-49a4-b608-2c2ae25c5e29) 
+![](https://github.com/navikt/naka/blob/main/static/img/3%20Opprett%20behandling.png)) 
 
 
 
 ## 1.	Hva  er en behandlingsoversikt, og hvorfor er det nødvendig ? 
-Alle virksomheter som behandler personopplysninger, har en plikt til å føre en oversikt (protokoll) over alle behandlingsaktiviteter som gjøres i sin virksomhet. Dette gjelder alle handlinger som gjøres ved å behandle personopplysninger, som når vi henter dem inn, når vi sammenstiller dem, når vi søker, når vi lagrer, bruker, utleverer, anonymiserer og sletter personopplysninger. For NAV betyr det alle aktiviteter på Arbeids- og velferdsetatens ansvarsområde: direktoratet og enheter i linjene må lage en oversikt på sine områder, og hver kommune har plikt til å føre en oversikt for sine ansvarsområder i NAV-kontoret.
+Alle virk![image](https://github.com/navikt/naka/assets/138101809/f747dc2b-b91a-403d-bc2f-419da56f057f)
+somheter som behandler personopplysninger, har en plikt til å føre en oversikt (protokoll) over alle behandlingsaktiviteter som gjøres i sin virksomhet. Dette gjelder alle handlinger som gjøres ved å behandle personopplysninger, som når vi henter dem inn, når vi sammenstiller dem, når vi søker, når vi lagrer, bruker, utleverer, anonymiserer og sletter personopplysninger. For NAV betyr det alle aktiviteter på Arbeids- og velferdsetatens ansvarsområde: direktoratet og enheter i linjene må lage en oversikt på sine områder, og hver kommune har plikt til å føre en oversikt for sine ansvarsområder i NAV-kontoret.
 NAV har laget en egen systemløsning, Behandlingskatalogen, som er et godt hjelpemiddel når vi skal dokumentere at vi etterlever pliktene vi har som behandlingsansvarlig   etter artikkel 30 i personvernforordningen. Behandlingskatalogen gir oss kontroll og oversikt over NAVs behandling av personopplysninger og beskytter rettighetene til alle vi har opplysninger om.
 Artikkel 30 i personvernforordningen stiller en rekke obligatoriske krav til hva en behandlingsoversikt skal inneholde av informasjon.
 Det er flere begreper innenfor personvern det kan være nyttig å ha kjennskap til før registrering i behandlingskatalogen. Disse er definert   og utdypet på personvernsidene våre på Navet  og i Begrepskatalogen. Det kan være nyttig å kjenne til følgende begreper:
@@ -34,15 +35,15 @@ Rådgivningsseksjonen, som er ansvarlig for personvernregelverket, gir føringer
 
 Rådgivningsseksjonen har også ansvar for å gi juridisk rådgivning ved utfylling av Behandlingskatalogen.
 
-**Personvernombudet**
+**Personvernombudet**  
 Personvernombudet skal bidra til å påse at etaten har en oversikt over all behandling av personopplysninger og gi råd og veiledning ved behov.
 
-**Ansvars- og linjeområder**
+**Ansvars- og linjeområder**  
 Fagansvarlig for hvert ansvarsområde eller linjeområde i NAV, i henhold til ansvarsdokumentet, er ansvarlig for å fylle ut Behandlingskatalogen, holde den oppdatert ved endringer og sikre at nye behandlingsaktiviteter registreres. 
 
 For ansatte i team som jobber med produktutvikling, ligger som regel ansvaret for å sørge for registrering og endring i Behandlingskatalogen til teamet, mens det overordnede ansvaret for registreringene følger fagansvaret. Det betyr at fagansvarlig i linja må sørge for å føre jevnlig kontroll med det som er registrert i Behandlingskatalogen.
 
-**Alle medarbeidere**
+**Alle medarbeidere**  
 Alle medarbeidere skal være kjent med at NAV har en Behandlingskatalog, hva som er formålet med den og hvordan endringer av innholdet i Behandlingskatalogen skal meldes i linja eller registreres. Behandlingskatalogen er også åpen for redigering for alle NAV-ansatte.
 
 ### 2.2 Oppdatering og endring av innhold
@@ -103,7 +104,7 @@ Eksempel på beskrivelse av formål :
 
 Hver avdeling skal registrere de behandlingsaktivitetene som de har fagansvaret og eventuelt linjeansvaret for. 
 
-**Seksjon/ Enhet **
+**Seksjon/ Enhet**  
 Oppgi navn på avdelingen og enheten/seksjonen i avdelingen eller i styringslinjen der det operative ansvaret for fagområdet/behandlingen ligger. Dersom det er aktuelt kan det også registreres hvilket utviklingsteam som er ansvarlig for behandlingen. 
 
 Eksempel:
@@ -124,22 +125,22 @@ Eksempel : For saksbehandling av sykepengesaker vil behandlingsgrunnlaget være 
 
 Dersom det rettslige grunnlaget er Art. 6 (1) f, åpnes et nytt felt hvor det må det angis hvilken berettiget interesse NAV benytter seg av i denne behandlingen. 
 
-**Dersom særlige kategorier av personopplysninger behandles, må behandlingsgrunnlaget i artikkel 9 spesifiseres**
+**Dersom særlige kategorier av personopplysninger behandles, må behandlingsgrunnlaget i artikkel 9 spesifiseres**  
 Behandling av særlige kategorier av personopplysninger er i utgangspunktet ikke lov. Personvernforordningen beskriver ti unntak fra dette forbudet. Det riktige unntaket velges i nedtrekksmenyen i registreringsbildet. For NAV vil behandlingsgrunnlaget som hovedregel følge av art. 9 (2) a og b.
 
 ### 3.5	Blir det gjort helautomatiserte individuelle avgjørelser og brukes profilering?
   
 
-**Helautomatiserte avgjørelser**
+**Helautomatiserte avgjørelser**  
 Tas det avgjørelser som gjelder en person uten at det gjøres noen menneskelige vurderinger, må det angis at behandlingen er helautomatisert. For at det skal være snakk om en helautomatisk avgjørelse, må det dreie seg om avgjørelser som har rettsvirkninger eller som har store konsekvenser for den enkelte. Under dette punktet registreres det «Ja», «Nei» eller «Uavklart». Dersom det registreres at det er uavklart, må dette avklares omgående og etterregistreres. Områder der vedtaksprosessen i dag er helautomatisert, er barnetrygd, pensjon og foreldrepengeområdet.
 
-**Profilering**
+**Profilering**  
 Med profilering mener vi enhver form for automatisert behandling som innebærer å bruke opplysningene til å vurdere visse personlige aspekter knyttet til en person. For eksempel kan profilering brukes for å analysere eller forutsi en persons økonomiske situasjon eller helse.
 
 Under dette punktet registreres det «Ja», «Nei» eller «Uavklart». Dersom det registreres at det er uavklart, må dette avklares omgående og etterregistreres. 
 
 ### 3.6	Databehandlere og andre tredjeparter
-**Benyttes det databehandler(e)?**
+**Benyttes det databehandler(e)?**  
 
 
 
@@ -156,15 +157,14 @@ Eksempler på databehandlere:
 *	leverandører som bidrar til forsøksordninger og utredninger
 *	en annen offentlig virksomhet som gjør et oppdrag på vegne av NAV
 
-**Utleveres personopplysningene til andre utenfor NAV?**
- 
+**Utleveres personopplysningene til andre utenfor NAV?**  
 Her oppgir du hvilke eksterne virksomheter NAV utleverer personopplysninger til, dersom dette gjøres som en del av behandlingen. Det omfatter utlevering som bygger på lovhjemler, og der NAV har en rett eller plikt til å utlevere personopplysninger. Kun regelmessige utleveringer skal oppgis. 
 
 Utleveringene NAV gjør skal være tilgjengelig nedtrekksmenyen i løsningen. Hvis ikke du finner den der, går du inn på «Utleveringer» i venstremenyen (se markering) og deretter «Opprett ny» til høyre i løsningen (se markering på bildet nedenfor).
 
 
 
-**Overføres det personopplysninger til land eller virksomheter utenfor EU/EØS?**
+**Overføres det personopplysninger til land eller virksomheter utenfor EU/EØS?**  
 Dersom personopplysninger overføres til databehandlere eller andre behandlingsansvarlige som opererer  i eller har tilknytning til et land utenfor EU/EØS, må det foreligge et behandlingsgrunnlag for denne overføringen.
 
 Personopplysninger overføres til land utenfor EU/EØS dersom en virksomhet får oversendt eller tilgang til personopplysningene fra land utenfor EU/EØS. Det er ikke nødvendig at opplysningene faktisk overføres i tradisjonell forstand (f.eks. via e-post). Det er tilstrekkelig at virksomheten får mulighet til innsyn i opplysningene. Overføring inkluderer også overføring av opplysninger i henhold til trygdeavtaler.
@@ -175,7 +175,7 @@ Eksempler på eksterne virksomheter:
 *	private virksomheter (finansinstitusjoner)
 *	andre lands myndigheter eller trygdemyndigheter
 
-**Hva er det rettslige grunnlaget for overføring av personopplysninger til land utenfor EU/EØS (tredjeland)? **
+**Hva er det rettslige grunnlaget for overføring av personopplysninger til land utenfor EU/EØS (tredjeland)?**  
 For å kunne overføre personopplysninger til utlandet må det i tillegg foreligge et gyldig rettsgrunnlag (overføringsgrunnlag). Dersom du registrerer at det overføres personopplysninger til tredjeland, skal du angi hva som er det konkrete rettslige grunnlaget for overføringen. Dette gjøres i registreringsbildet for databehandlere og utleveringer. 
 
 Eksempler:
@@ -186,7 +186,7 @@ Eksempler:
 *	EUs standardavtaler
 
 ### 3.7	Annet
-**I hvilke systemer behandles personopplysningene?**
+**I hvilke systemer behandles personopplysningene?**  
 Angi i hvilke systemer personopplysninger behandles. Med systemer mener vi både interne og eksterne IT-systemer, apper, skytjeneser og plattformer og fysiske og digitale arkiv. Dersom du ikke finner systemet i nedtrekksmenyen i løsningen, må det bes om at det aktuelle systemet legges til, i kanalen #behandlingskatalogen på Slack.
 
 ### 3.8	Hvilken tidsfrist har dere satt for hvor lenge personopplysningene skal lagres?
@@ -201,25 +201,25 @@ Oppgi om det er behov for PVK ved å velge «Ja», «Nei» eller «Uavklart». D
 ### 3.10	Personopplysninger i behandlingen
  
 
-**Hvilke kategorier av personopplysninger behandles?**
+**Hvilke kategorier av personopplysninger behandles?**  
 Etter at behandlingen er registrert må du angi hvilke kategorier av personopplysninger som behandles. Dette gjøres ved å trykke på «Opplysningstype» nederst til høyre i oversikten over behandlingen. Velg de kategoriene av opplysningstyper som brukes i behandlingen. 
 
 Dersom det brukes en opplysningstype som ikke står i oversikten, kan denne legges til under «Opplysningstyper» i venstremenyen (se markering på bildet nedenfor) og deretter ved å trykke på «Opprett ny» på høyre side. 
 
  
 
-**Behandles det særlige kategorier av personopplysninger?**
+**Behandles det særlige kategorier av personopplysninger?**  
 Hvis særlige kategorier av personopplysninger (sensitive personopplysninger) behandles innen det respektive fagområdet, skal man også registrere behandlingsgrunnlaget for denne behandlingen.
  
-**Behandles det personopplysninger om straffedommer og lovovertredelser?**
+**Behandles det personopplysninger om straffedommer og lovovertredelser?**  
 Dersom det behandles personopplysninger om straffedommer og lovovertredelser angis dette i løsningen ved å registrere behandlingsgrunnlaget i artikkel 6 og aktuell lovbestemmelse i nasjonal lovgivning, i tillegg til at den aktuelle opplysningstypen legges til i registreringen av behandlingen. 
 
-**Hvilke grupper av personer behandles det personopplysninger om?**
+**Hvilke grupper av personer behandles det personopplysninger om?**  
 Under finner dere grupper av personer som NAV behandler personopplysninger om. Bruk disse kategoriene i oversikten til å registrere hvem personopplysningene som behandles gjelder. Dersom ingen av dem passer, kan dere skrive inn en ny gruppe i feltet. Dersom det behandles personopplysninger om flere grupper, må alle disse angis.
 
 
 
-**Fra hvilke kilder utenfor NAV innhentes personopplysninger?**
+**Fra hvilke kilder utenfor NAV innhentes personopplysninger?**  
 Personopplysninger innhentes typisk fra brukeren selv og fra ulike eksterne kilder.
 
 Eksempler:
