@@ -259,7 +259,7 @@ Eksterne kilder til data inkluderer teamkatalogen og begrepskatalogen og felles 
 Team Datajegerne administrerer løsningen og har tilgang til grensesnittet for følgende admin-funksjoner:
 * Administrasjon av tilgang til applikasjonen.
 * Versjonshistorikk som inkludert timestamp , hvem som har endret noe, samt et snapshot av hele dataobjektet når det ble endret.
-* Administrering av kodelister, for å sikre datakvalitet er en rekke felter i løsningen basert på internt kontrollerte kodeverk. (Om noen av disse skal flyttes ut og bli NAV-kodeverk er en pågående diskusjon)
+* Administrering av kodelister. For å sikre datakvalitet er en rekke felter i løsningen basert på internt kontrollerte kodeverk.
 
 ## Kontaktinformasjon
 [Team Datajegerne](https://teamkatalog.nav.no/team/264cebfa-ad46-4af9-8867-592f99f491e6) utvikler og forvalter løsningen. Du kan nå teamet på slack [#behandlingskatalogen](https://nav-it.slack.com/archives/CR1B19E6L)
