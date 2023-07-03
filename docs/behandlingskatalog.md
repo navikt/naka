@@ -78,10 +78,10 @@ Hver behandlingsaktivitet skal ha en egen registrering. Dere definerer selv på 
 *	Dersom en behandlingsaktivitet består av både helautomatiserte prosesser og manuelle prosesser, bør dere vurdere å dele den opp i flere aktiviteter.
 
 Eksempel:
-Fago mrådet «Hjelpemidler» kan grupperes under et felles formål:
-«Kompensere for bestemte utgifter til bedring av arbeidsevnen og funksjonsevnen i arbeidslivet og dagliglivet for medlemmer som har sykdom, skade eller lyte, jf. folketrygdloven § 10-7». 
+Fagområdet «Hjelpemidler» kan grupperes under et felles formål:
+«Kompensere for bestemte utgifter til bedring av arbeidsevnen og funksjonsevnen i arbeidslivet og dagliglivet for medlemmer som har sykdom, skade eller lyte, jf. folketrygdloven § 10-7».
 
-Behandlingsgrunnlaget følger av folketrygdlovens kap. 10 og er utøvelse av offentlig myndighet etter personvernforordningen, jf. Art. 6 (1) e og art. 9 (2) b. Dette taler for at vi kan gruppere det som kun én behandlingsaktivitet. Men siden det er store variasjoner i hvilke kategorier av personopplysninger som behandles, ulikt behandlingsgrunnlag og bruk av tredjeparter som databehandlere, må det likevel deles opp i flere behandlingsaktiviteter .
+Behandlingsgrunnlaget følger av folketrygdlovens kap. 10 og er utøvelse av offentlig myndighet etter personvernforordningen, jf. art. 6 (1) e og art. 9 (2) b. Dette taler for at vi kan gruppere det som kun én behandlingsaktivitet. Men siden det er store variasjoner i hvilke kategorier av personopplysninger som behandles, ulikt behandlingsgrunnlag og bruk av tredjeparter som databehandlere, må det likevel deles opp i flere behandlingsaktiviteter.
 
 ### 3.2	Hva er formålet  med behandlingen av personopplysningene?
 
@@ -89,7 +89,7 @@ Behandlingsgrunnlaget følger av folketrygdlovens kap. 10 og er utøvelse av off
 
 Angi formålet med innsamling og bruk av personopplysningene innen tjeneste- eller fagområdet. Formålet skal være spesifikt og legitimt. Det betyr at formålet må angis slik at det er tydelig at det er dekket av behandlingsgrunnlaget. Formålene vil for NAV sin del ofte følge av lovbestemmelsen/kapittelet i folketrygdloven eller NAV-loven som er behandlingsgrunnlaget for den aktuelle behandlingen. Dersom opplysningene skal brukes til flere formål, vil det si at det i praksis er snakk om flere ulike behandlinger. Det må derfor også registreres som flere behandlinger i Behandlingskatalogen. 
 
-Eksempel på beskrivelse av formål :
+Eksempel på beskrivelse av formål:
 
 * Tjenesteområde: Alderspensjon
     * Formål: Behandle og vurdere rett til alderspensjon som skal sikre inntekt for personer i alderdommen og legge til rette for en fleksibel og gradvis overgang fra arbeid til pensjon.
