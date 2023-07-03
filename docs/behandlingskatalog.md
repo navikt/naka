@@ -46,7 +46,7 @@ For ansatte i team som jobber med produktutvikling, ligger som regel ansvaret fo
 Alle medarbeidere skal være kjent med at NAV har en Behandlingskatalog, hva som er formålet med den og hvordan endringer av innholdet i Behandlingskatalogen skal meldes i linja eller registreres. Behandlingskatalogen er også åpen for redigering for alle NAV-ansatte.
 
 ### 2.2 Oppdatering og endring av innhold
-Behandlingskatalogen skal dokumentere hvilke behandlinger av personopplysninger som gjøres i NAV. Dersom det iverksettes nye behandlinger eller det gjøres endringer på eksisterende behandlinger, skal dette oppdateres i Behandlingskatalogen før behandlingen starter, i tråd med ansvarsfordelingen som nevnt i pkt. 2.1 over. Personvernkravene i verktøyet «Støtte til etterlevelse» vil identifisere når det er behov for å oppdatere behandlingen i Behandlingskatalogen. Dersom det er behov for en ny overordnet behandlingsaktivitet, kan dette bes om på Slack på kanalen #behandlingskatalogen eller per e-post til nav.juridisk.avdeling@nav.no  dersom du ikke er på Slack. 
+Behandlingskatalogen skal dokumentere hvilke behandlinger av personopplysninger som gjøres i NAV. Dersom det iverksettes nye behandlinger eller det gjøres endringer på eksisterende behandlinger, skal dette oppdateres i Behandlingskatalogen før behandlingen starter, i tråd med ansvarsfordelingen som nevnt i pkt. 2.1 over. Personvernkravene i verktøyet «Støtte til etterlevelse» vil identifisere når det er behov for å oppdatere behandlingen i Behandlingskatalogen. Dersom det er behov for en ny overordnet behandlingsaktivitet, kan dette bes om på Slack på kanalen [#behandlingskatalogen](https://nav-it.slack.com/archives/CR1B19E6L) eller per e-post til nav.juridisk.avdeling@nav.no dersom du ikke er på Slack. 
 
 Dersom det blant ansatte i linja utenfor direktoratet avdekkes at det er behov for endringer i allerede registrerte behandlingsaktiviteter eller en vurderer at det er behov for å legge til en ny behandlingsaktivitet, må fagansvarlig i direktoratet (eller linja) kontaktes for dialog om hvordan det er mest hensiktsmessig å løse dette behovet. 
 
@@ -118,7 +118,7 @@ All behandling av personopplysninger må ha et behandlingsgrunnlag.
 Oppgi hvilket behandlingsgrunnlag som ligger til grunn for behandlingen. Ifølge personvernforordningen er det seks mulige rettsgrunnlag som kan benyttes, og det er laget en nedtrekksmeny i registreringsbildet. Dersom det er to rettslige grunnlag som ligger til grunn for behandlingen, tilsier det at området eller aktiviteten må splittes opp i to registreringer.
 Du kan lese om de forskjellige behandlingsgrunnlagene på Navet.
 
-Er du i tvil   om hvilket rettsgrunnlag som kan anvendes, ta kontakt med fagansvarlig på området for veiledning. Dersom fagansvarlig har behov for veiledning, kan dette bes om på kanalen #behandlingskatalogen på Slack, eller per e-post til nav.juridisk.avdeling@nav.no dersom du ikke er på Slack. 
+Er du i tvil   om hvilket rettsgrunnlag som kan anvendes, ta kontakt med fagansvarlig på området for veiledning. Dersom fagansvarlig har behov for veiledning, kan dette bes om på kanalen [#behandlingskatalogen](https://nav-it.slack.com/archives/CR1B19E6L) på Slack, eller per e-post til nav.juridisk.avdeling@nav.no dersom du ikke er på Slack. 
 
 Hvis det rettslige grunnlaget for behandlingen er rettslig forpliktelse etter Art. 6 (1) c eller offentlig myndighetsutøvelse etter Art. 6 (1) e, åpnes et nytt felt for å registrere dette. Det supplerende rettsgrunnlaget skal finnes i norsk lovgivning, og bør angis så presist som mulig. Kan man peke på en bestemt lov- og forskriftsbestemmelse, bør denne oppgis.
 
@@ -282,7 +282,7 @@ Alle i NAV har både lese- og skrivetilgang til løsningen i preprod:[Behandling
 
 **Tilgang og headers**  
 API er åpent for lesing for alle Nav-ansatte på en Nav-innrullert enhet, men eksponeres ikke eksternt utenfor Nav. 
-Skriving og enkelte administrative funksjoner er begrenset med rollestyring. Kontakt på #behandlingskatalogen for mer info.
+Skriving og enkelte administrative funksjoner er begrenset med rollestyring. Kontakt på [#behandlingskatalogen](https://nav-it.slack.com/archives/CR1B19E6L) for mer info.
 
 Headers
 * Authorization - Systemer kan sende med Azure access token som Bearer token
