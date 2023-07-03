@@ -209,14 +209,15 @@ Oppgi om behandlingen omfattes av NAVs bevarings- og kassasjonsvedtak  og hvor l
 Oppgi om det er behov for PVK ved å velge «Ja», «Nei» eller «Uavklart». Dersom det angis at det er «Uavklart» må dette vurderes omgående og oppdateres i løsningen. Hvis det er behov for å gjennomføre PVK skal referansen til PVK-en i Websak legges til. Hvis man kommer til at det ikke er behov for å gjennomføre PVK, må det velges en begrunnelse for dette. 
 
 ### 3.10	Personopplysninger i behandlingen
- 
+
+![](https://github.com/navikt/naka/blob/main/static/img/3.10%20Opplysningstyper.png) 
 
 **Hvilke kategorier av personopplysninger behandles?**  
 Etter at behandlingen er registrert må du angi hvilke kategorier av personopplysninger som behandles. Dette gjøres ved å trykke på «Opplysningstype» nederst til høyre i oversikten over behandlingen. Velg de kategoriene av opplysningstyper som brukes i behandlingen. 
 
 Dersom det brukes en opplysningstype som ikke står i oversikten, kan denne legges til under «Opplysningstyper» i venstremenyen (se markering på bildet nedenfor) og deretter ved å trykke på «Opprett ny» på høyre side. 
 
- 
+![](https://github.com/navikt/naka/blob/main/static/img/3.10%20Legg%20til%20Opplysningstype.png) 
 
 **Behandles det særlige kategorier av personopplysninger?**  
 Hvis særlige kategorier av personopplysninger (sensitive personopplysninger) behandles innen det respektive fagområdet, skal man også registrere behandlingsgrunnlaget for denne behandlingen.
@@ -227,7 +228,7 @@ Dersom det behandles personopplysninger om straffedommer og lovovertredelser ang
 **Hvilke grupper av personer behandles det personopplysninger om?**  
 Under finner dere grupper av personer som NAV behandler personopplysninger om. Bruk disse kategoriene i oversikten til å registrere hvem personopplysningene som behandles gjelder. Dersom ingen av dem passer, kan dere skrive inn en ny gruppe i feltet. Dersom det behandles personopplysninger om flere grupper, må alle disse angis.
 
-
+![](https://github.com/navikt/naka/blob/main/static/img/Grupper%20av%20registrerte.png)
 
 **Fra hvilke kilder utenfor NAV innhentes personopplysninger?**  
 Personopplysninger innhentes typisk fra brukeren selv og fra ulike eksterne kilder.
@@ -236,7 +237,7 @@ Eksempler:
 *	Personopplysninger innhentes fra brukeren eller søkeren ved utfylling eller dialog i søknadsprosessen og senere i saksbehandlingsprosessen.
 *	NAV innhenter opplysninger fra andre virksomheter, eksterne registre og/eller samhandlere som Folkeregisteret, A-ordningen, Kontakt- og reservasjonsregisteret, Statens pensjonskasse, UDI, Skatteetaten, kommune, lege og annet helsepersonell, arbeidsgiver, utenlandske myndigheter, etc.
 
-Dersom kategorien av personopplysninger allerede er lagt til i behandlingskatalogen, skal kilden også være registrert. Dersom det skal registreres en ny opplysningstype skal navngitt kilde oppgis i registreringsfeltet for opplysningstypen. Hvis personopplysningene innhentes fra eksterne registre, skal det oppgis hvilket register det hentes fra. Dersom det innhentes personopplysninger fra flere kilder, skal alle disse oppgis. Kommer opplysningene fra brukeren selv, er det tilstrekkelig å angi «brukeren» som kilde
+Dersom kategorien av personopplysninger allerede er lagt til i behandlingskatalogen, skal kilden også være registrert. Dersom det skal registreres en ny opplysningstype skal navngitt kilde oppgis i registreringsfeltet for opplysningstypen. Hvis personopplysningene innhentes fra eksterne registre, skal det oppgis hvilket register det hentes fra. Dersom det innhentes personopplysninger fra flere kilder, skal alle disse oppgis. Kommer opplysningene fra brukeren selv, er det tilstrekkelig å angi «brukeren» som kilde.
 
 Eksempler:
 *	fagsystemer som f.eks. Gosys, Modia, Arena, Pesys, Bisys, Infotrygd
@@ -248,36 +249,38 @@ Eksempler:
 *	rekrutteringssystem
 *	database
 
-## Litt om arkitektur
+## 4. Litt om arkitektur
 Behandlingskatalogen består av backend (java spring boot) Polly (fra "Policy Catalog") og en frontend (react app).
 All data er åpent tilgjengelig internt i NAV uten innlogging. Brukere med skrivetilgang kan endre data. Innlogging skjer via Single Sign-On via Azure AD, brukere i frontend vil få en session cookie som varer i 14 dager. APIet støtter innlogging via Authorization header med Bearer token (access token fra Azure).
 
 Løsningen bruker PostgreSQL som datakilde men de fleste felter er lagret i JSONB kolonner.
 Eksterne kilder til data inkluderer teamkatalogen og begrepskatalogen og felles kodeverk.
 
-### Administratorer  
+### 4.1 Administratorer  
 Team Datajegerne administrerer løsningen og har tilgang til grensesnittet for følgende admin-funksjoner:
 * Administrasjon av tilgang til applikasjonen.
 * Versjonshistorikk som inkludert timestamp , hvem som har endret noe, samt et snapshot av hele dataobjektet når det ble endret.
 * Administrering av kodelister. For å sikre datakvalitet er en rekke felter i løsningen basert på internt kontrollerte kodeverk.
 
-## Kontaktinformasjon
+**Kontaktinformasjon**  
 [Team Datajegerne](https://teamkatalog.nav.no/team/264cebfa-ad46-4af9-8867-592f99f491e6) utvikler og forvalter løsningen. Du kan nå teamet på slack [#behandlingskatalogen](https://nav-it.slack.com/archives/CR1B19E6L)
 
-### Test/Preprod
+### 4.2 Litt om kode, API og tilgang m.m.
+
+**Test/Preprod, Kildekode, API, Datasett og Tilgang og headers**  
 Alle i NAV har både lese- og skrivetilgang til løsningen i preprod:[Behandlingskatalogen (Test)](https://behandlingskatalog.intern.dev.nav.no/)
 
-### Kildekode
+**Kildekode**  
 * [Repo](https://github.com/navikt/polly)
 
-### API
+**API**  
 * [Swagger API](https://behandlingskatalog-backend.intern.nav.no/swagger-ui/index.html)
 * [Swagger API (Test)](https://behandlingskatalog-backend.intern.dev.nav.no/swagger-ui/index.html)
 
-### Datasett
+**Datasett**  
 * [Behandlingskatalogen datasett](https://data.adeo.no/datapakke/37427aeae539aba2dee2c40ae4ac9319) (mangelfullt, under arbeid)
 
-### Tilgang og headers
+**Tilgang og headers**  
 API er åpent for lesing for alle Nav-ansatte på en Nav-innrullert enhet, men eksponeres ikke eksternt utenfor Nav. 
 Skriving og enkelte administrative funksjoner er begrenset med rollestyring. Kontakt på #behandlingskatalogen for mer info.
 
