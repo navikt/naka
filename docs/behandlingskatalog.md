@@ -278,7 +278,7 @@ Alle i NAV har både lese- og skrivetilgang til løsningen i preprod:[Behandling
 * [Swagger API (Test)](https://behandlingskatalog-backend.intern.dev.nav.no/swagger-ui/index.html)
 
 **Datasett**  
-* [Behandlingskatalogen datasett](https://data.adeo.no/datapakke/37427aeae539aba2dee2c40ae4ac9319) (mangelfullt, under arbeid)
+* [Behandlingskatalogen datasett](https://data.intern.nav.no/search?text=behandlingskatalogen&preferredType=dataproduct) (mangelfullt, under arbeid)
 
 **Tilgang og headers**  
 API er åpent for lesing for alle Nav-ansatte på en Nav-innrullert enhet, men eksponeres ikke eksternt utenfor Nav. 
