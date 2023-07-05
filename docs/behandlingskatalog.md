@@ -6,7 +6,7 @@ title: Veileder til Behandlingskatalogen - forvaltning og utfylling
 
 
 
-## 1.	Hva  er en behandlingsoversikt, og hvorfor er det nødvendig ? 
+## 1.	Hva  er en behandlingsoversikt og hvorfor er det nødvendig? 
 Alle virksomheter som behandler personopplysninger, har en plikt til å føre en oversikt (protokoll) over alle behandlingsaktiviteter som gjøres i sin virksomhet. Dette gjelder alle handlinger som gjøres ved å behandle personopplysninger, som når vi henter dem inn, når vi sammenstiller dem, når vi søker, når vi lagrer, bruker, utleverer, anonymiserer og sletter personopplysninger. For NAV betyr det alle aktiviteter på Arbeids- og velferdsetatens ansvarsområde: direktoratet og enheter i linjene må lage en oversikt på sine områder, og hver kommune har plikt til å føre en oversikt for sine ansvarsområder i NAV-kontoret.
 
 NAV har laget en egen systemløsning, Behandlingskatalogen, som er et godt hjelpemiddel når vi skal dokumentere at vi etterlever pliktene vi har som behandlingsansvarlig etter [artikkel 30 i personvernforordningen](https://lovdata.no/lov/2018-06-15-38/gdpr/a30). Behandlingskatalogen gir oss kontroll og oversikt over NAVs behandling av personopplysninger og beskytter rettighetene til alle vi har opplysninger om.
@@ -200,7 +200,7 @@ Angi i hvilke systemer personopplysninger behandles. Med systemer mener vi både
 
 ### 3.8	Hvilken tidsfrist har dere satt for hvor lenge personopplysningene skal lagres?
 
-![](https://github.com/navikt/naka/blob/main/static/img/3.8%20Lagringsbehov.png?raw=true)
+![](https://github.com/navikt/naka/blob/main/static/img/3.8%20Lagringsbehov.png?raw=true)  
  
 Etter personvernforordningen skal personopplysninger ikke lagres lenger enn nødvendig for å gjennomføre formålet de er samlet inn for. Etter det skal de slettes. Det er hovedregelen med mindre annen lovgivning pålegger lengre lagringstid, som for eksempel arkivlovgivning og regnskapslovgivning.
 Oppgi om behandlingen omfattes av NAVs bevarings- og kassasjonsvedtak  og hvor lenge opplysningene skal lagres. Vis til begrunnelsen for lagringstid ved å legge inn referanse til aktuelt skjema for lagring på Confluence  eller i Websak. 
@@ -213,14 +213,14 @@ Oppgi om det er behov for PVK ved å velge «Ja», «Nei» eller «Uavklart». D
 
 ### 3.10	Personopplysninger i behandlingen
 
-![](https://github.com/navikt/naka/blob/main/static/img/3.10%20Opplysningstyper.png) 
+![](https://github.com/navikt/naka/blob/main/static/img/3.10%20Opplysningstyper.png?raw=true) 
 
 **Hvilke kategorier av personopplysninger behandles?**  
 Etter at behandlingen er registrert må du angi hvilke kategorier av personopplysninger som behandles. Dette gjøres ved å trykke på «Opplysningstype» nederst til høyre i oversikten over behandlingen. Velg de kategoriene av opplysningstyper som brukes i behandlingen. 
 
 Dersom det brukes en opplysningstype som ikke står i oversikten, kan denne legges til under «Opplysningstyper» i venstremenyen (se markering på bildet nedenfor) og deretter ved å trykke på «Opprett ny» på høyre side. 
 
-![](https://github.com/navikt/naka/blob/main/static/img/3.10%20Legg%20til%20Opplysningstype.png) 
+![](https://github.com/navikt/naka/blob/main/static/img/3.10%20Legg%20til%20Opplysningstype.png?raw=true) 
 
 **Behandles det særlige kategorier av personopplysninger?**  
 Hvis særlige kategorier av personopplysninger (sensitive personopplysninger) behandles innen det respektive fagområdet, skal man også registrere behandlingsgrunnlaget for denne behandlingen.
@@ -231,7 +231,7 @@ Dersom det behandles personopplysninger om straffedommer og lovovertredelser ang
 **Hvilke grupper av personer behandles det personopplysninger om?**  
 Under finner dere grupper av personer som NAV behandler personopplysninger om. Bruk disse kategoriene i oversikten til å registrere hvem personopplysningene som behandles gjelder. Dersom ingen av dem passer, kan dere skrive inn en ny gruppe i feltet. Dersom det behandles personopplysninger om flere grupper, må alle disse angis.
 
-![](https://github.com/navikt/naka/blob/main/static/img/Grupper%20av%20registrerte.png)
+![](https://github.com/navikt/naka/blob/main/static/img/Grupper%20av%20registrerte.png?raw=true)
 
 **Fra hvilke kilder utenfor NAV innhentes personopplysninger?**  
 Personopplysninger innhentes typisk fra brukeren selv og fra ulike eksterne kilder.
@@ -252,14 +252,16 @@ Eksempler:
 *	rekrutteringssystem
 *	database
 
-## 4. Litt om arkitektur
+
+## 4. Systeminformasjon
+### 4.1 Litt om arkitektur  
 Behandlingskatalogen består av backend (java spring boot) Polly (fra "Policy Catalog") og en frontend (react app).
 All data er åpent tilgjengelig internt i NAV uten innlogging. Brukere med skrivetilgang kan endre data. Innlogging skjer via Single Sign-On via Azure AD, brukere i frontend vil få en session cookie som varer i 14 dager. APIet støtter innlogging via Authorization header med Bearer token (access token fra Azure).
 
 Løsningen bruker PostgreSQL som datakilde men de fleste felter er lagret i JSONB kolonner.
 Eksterne kilder til data inkluderer teamkatalogen og begrepskatalogen og felles kodeverk.
 
-### 4.1 Administratorer  
+### 4.2 Administratorer  
 Team Datajegerne administrerer løsningen og har tilgang til grensesnittet for følgende admin-funksjoner:
 * Administrasjon av tilgang til applikasjonen.
 * Versjonshistorikk som inkludert timestamp , hvem som har endret noe, samt et snapshot av hele dataobjektet når det ble endret.
@@ -268,7 +270,7 @@ Team Datajegerne administrerer løsningen og har tilgang til grensesnittet for f
 **Kontaktinformasjon**  
 [Team Datajegerne](https://teamkatalog.nav.no/team/264cebfa-ad46-4af9-8867-592f99f491e6) utvikler og forvalter løsningen. Du kan nå teamet på slack [#behandlingskatalogen](https://nav-it.slack.com/archives/CR1B19E6L)
 
-### 4.2 Litt om kode, API og tilgang m.m.
+### 4.3 Litt om kode, API og tilgang m.m.
 
 **Test/Preprod, Kildekode, API, Datasett og Tilgang og headers**  
 Alle i NAV har både lese- og skrivetilgang til løsningen i preprod:[Behandlingskatalogen (Test)](https://behandlingskatalog.intern.dev.nav.no/)
