@@ -169,6 +169,12 @@ Eksempler på databehandlere:
 
 Her oppgir du hvilke eksterne virksomheter NAV utleverer personopplysninger til, dersom dette gjøres som en del av behandlingen. Det omfatter utlevering som bygger på lovhjemler, og der NAV har en rett eller plikt til å utlevere personopplysninger. Kun regelmessige utleveringer skal oppgis. 
 
+Eksempler på eksterne virksomheter:
+*	annen offentlig virksomhet (kommune, Lånekassen, Skatteetaten, UDI, pensjonskasser, SSB)
+*	samhandlere (lege/helsepersonell, arbeidsgivere, tiltaksarrangører mfl.)
+*	private virksomheter (finansinstitusjoner)
+*	andre lands myndigheter eller trygdemyndigheter
+
 Utleveringene NAV gjør skal være tilgjengelig nedtrekksmenyen i løsningen. Hvis ikke du finner den der, går du inn på «Utleveringer» i venstremenyen (se markering) og deretter «Opprett ny» til høyre i løsningen (se markering på bildet nedenfor).
 
 ![](https://github.com/navikt/naka/blob/main/static/img/3.6%20Legg%20til%20Utlevering.png?raw=true)
@@ -177,12 +183,6 @@ Utleveringene NAV gjør skal være tilgjengelig nedtrekksmenyen i løsningen. Hv
 Dersom personopplysninger overføres til andre behandlingsansvarlige eller databehandlere som opererer  i eller har tilknytning til et land utenfor EU/EØS, må det foreligge et behandlingsgrunnlag for denne overføringen.
 
 Personopplysninger overføres til land utenfor EU/EØS dersom en virksomhet får oversendt eller tilgang til personopplysningene fra land utenfor EU/EØS. Det er ikke nødvendig at opplysningene faktisk overføres i tradisjonell forstand (f.eks. via e-post). Det er tilstrekkelig at virksomheten får mulighet til innsyn i opplysningene. Med overføring her mener vi også utlevering av opplysninger i henhold til trygdeavtaler.
-
-Eksempler på eksterne virksomheter:
-*	annen offentlig virksomhet (kommune, Lånekassen, Skatteetaten, UDI, pensjonskasser, SSB)
-*	samhandlere (lege/helsepersonell, arbeidsgivere, tiltaksarrangører mfl.)
-*	private virksomheter (finansinstitusjoner)
-*	andre lands myndigheter eller trygdemyndigheter
 
 **Hva er det rettslige grunnlaget for overføring av personopplysninger til land utenfor EU/EØS (tredjeland)?**  
 For å kunne overføre personopplysninger til utlandet må det i tillegg foreligge et gyldig rettsgrunnlag (overføringsgrunnlag). Dersom du registrerer at det overføres personopplysninger til tredjeland, skal du angi hva som er det konkrete rettslige grunnlaget for overføringen. Dette gjøres i registreringsbildet for databehandlere og utleveringer. 
