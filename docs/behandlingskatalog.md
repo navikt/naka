@@ -6,7 +6,7 @@ title: Veileder til Behandlingskatalogen - forvaltning og utfylling
 
 
 
-## 1.	Hva  er en behandlingsoversikt og hvorfor er det nødvendig? 
+## 1.	Hva  er en behandlingsoversikt og hvorfor er det nødvendig?
 Alle virksomheter som behandler personopplysninger, har en plikt til å føre en oversikt (protokoll) over alle behandlingsaktiviteter som gjøres i sin virksomhet. Dette gjelder alle handlinger som gjøres ved å behandle personopplysninger, som når vi henter dem inn, når vi sammenstiller dem, når vi søker, når vi lagrer, bruker, utleverer, anonymiserer og sletter personopplysninger. For NAV betyr det alle aktiviteter på Arbeids- og velferdsetatens ansvarsområde: direktoratet og enheter i linjene må lage en oversikt på sine områder, og hver kommune har plikt til å føre en oversikt for sine ansvarsområder i NAV-kontoret.
 
 NAV har laget en egen systemløsning, Behandlingskatalogen, som er et godt hjelpemiddel når vi skal dokumentere at vi etterlever pliktene vi har som behandlingsansvarlig etter [artikkel 30 i personvernforordningen](https://lovdata.no/lov/2018-06-15-38/gdpr/a30). Behandlingskatalogen gir oss kontroll og oversikt over NAVs behandling av personopplysninger og beskytter rettighetene til alle vi har opplysninger om.
@@ -30,10 +30,10 @@ Veilederen beskriver hvem som har ansvaret og hvordan Behandlingskatalogen skal 
 Veilederen beskriver hvilken informasjon som skal registreres for hver behandlingsaktivitet, og den gir eksempler på kategorier eller alternativer der det er relevant. 
 
 ### 2.1 Hvem har ansvaret for Behandlingskatalogen
-Ansvarsfordelingen følger av Ansvarsdokumentet for direktoratet pkt. 3.5 og Styringsdokument for personvern kap. 5. Ansvaret er også tatt inn i Mål- og disponeringsbrevet  til avdelingene.
+Ansvarsfordelingen følger av [Ansvarsdokumentet for direktoratet pkt. 3.5](https://navno.sharepoint.com/sites/intranett-virksomhetsstyring/SitePages/Ansvarsdokumentet.aspx) og [Styringsdokument for personvern kap. 5](https://navno.sharepoint.com/sites/intranett-virksomhetsstyring/SitePages/Ansvarsdokumentet.aspx). Ansvaret er også tatt inn i Mål- og disponeringsbrevet  til avdelingene.
 
 **Rådgivningsseksjonen i Juridisk avdeling**  
-Rådgivningsseksjonen, som er ansvarlig for personvernregelverket, gir føringer for verktøyet Behandlingskatalogen  , slik at den legger til rette for å dokumentere behandlingene NAV gjør med personopplysninger på en oversiktlig måte, i tråd med kravene som stilles i personvernforordningen artikkel 30. Seksjon for informasjonsforvaltning har det overordnede ansvaret for etterlevelsesprosessen, og har dermed også en rolle i å bidra til videreutviklingen av verktøyet.
+Rådgivningsseksjonen, som er ansvarlig for personvernregelverket, gir føringer for verktøyet Behandlingskatalogen  , slik at den legger til rette for å dokumentere behandlingene NAV gjør med personopplysninger på en oversiktlig måte, i tråd med kravene som stilles i [personvernforordningen artikkel 30](https://lovdata.no/lov/2018-06-15-38/gdpr/a30). Seksjon for informasjonsforvaltning har det overordnede ansvaret for etterlevelsesprosessen, og har dermed også en rolle i å bidra til videreutviklingen av verktøyet.
 
 Rådgivningsseksjonen har også ansvar for å gi juridisk rådgivning ved utfylling av Behandlingskatalogen.
 
@@ -119,7 +119,7 @@ Eksempel:
 
 All behandling av personopplysninger må ha et behandlingsgrunnlag.
 Oppgi hvilket behandlingsgrunnlag som ligger til grunn for behandlingen. Ifølge personvernforordningen er det seks mulige rettsgrunnlag som kan benyttes, og det er laget en nedtrekksmeny i registreringsbildet. Dersom det er to rettslige grunnlag som ligger til grunn for behandlingen, tilsier det at området eller aktiviteten må splittes opp i to registreringer.
-Du kan lese om de forskjellige behandlingsgrunnlagene på Navet.
+Du kan lese om de forskjellige behandlingsgrunnlagene på [Navet](https://navno.sharepoint.com/sites/intranett-personvern/SitePages/Behandlingsgrunnlag.aspx?web=1).
 
 Er du i tvil   om hvilket rettsgrunnlag som kan anvendes, ta kontakt med fagansvarlig på området for veiledning. Dersom fagansvarlig har behov for veiledning, kan dette bes om på kanalen [#behandlingskatalogen](https://nav-it.slack.com/archives/CR1B19E6L) på Slack, eller per e-post til nav.juridisk.avdeling@nav.no dersom du ikke er på Slack. 
 
