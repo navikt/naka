@@ -174,9 +174,9 @@ Utleveringene NAV gjør skal være tilgjengelig nedtrekksmenyen i løsningen. Hv
 ![](https://github.com/navikt/naka/blob/main/static/img/3.6%20Legg%20til%20Utlevering.png?raw=true)
 
 **Overføres det personopplysninger til land eller virksomheter utenfor EU/EØS?**  
-Dersom personopplysninger overføres til databehandlere eller andre behandlingsansvarlige som opererer  i eller har tilknytning til et land utenfor EU/EØS, må det foreligge et behandlingsgrunnlag for denne overføringen.
+Dersom personopplysninger overføres til andre behandlingsansvarlige eller databehandlere som opererer  i eller har tilknytning til et land utenfor EU/EØS, må det foreligge et behandlingsgrunnlag for denne overføringen.
 
-Personopplysninger overføres til land utenfor EU/EØS dersom en virksomhet får oversendt eller tilgang til personopplysningene fra land utenfor EU/EØS. Det er ikke nødvendig at opplysningene faktisk overføres i tradisjonell forstand (f.eks. via e-post). Det er tilstrekkelig at virksomheten får mulighet til innsyn i opplysningene. Overføring inkluderer også overføring av opplysninger i henhold til trygdeavtaler.
+Personopplysninger overføres til land utenfor EU/EØS dersom en virksomhet får oversendt eller tilgang til personopplysningene fra land utenfor EU/EØS. Det er ikke nødvendig at opplysningene faktisk overføres i tradisjonell forstand (f.eks. via e-post). Det er tilstrekkelig at virksomheten får mulighet til innsyn i opplysningene. Med overføring her mener vi også utlevering av opplysninger i henhold til trygdeavtaler.
 
 Eksempler på eksterne virksomheter:
 *	annen offentlig virksomhet (kommune, Lånekassen, Skatteetaten, UDI, pensjonskasser, SSB)
