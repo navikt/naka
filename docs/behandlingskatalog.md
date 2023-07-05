@@ -8,9 +8,12 @@ title: Veileder til Behandlingskatalogen - forvaltning og utfylling
 
 ## 1.	Hva  er en behandlingsoversikt, og hvorfor er det nødvendig ? 
 Alle virksomheter som behandler personopplysninger, har en plikt til å føre en oversikt (protokoll) over alle behandlingsaktiviteter som gjøres i sin virksomhet. Dette gjelder alle handlinger som gjøres ved å behandle personopplysninger, som når vi henter dem inn, når vi sammenstiller dem, når vi søker, når vi lagrer, bruker, utleverer, anonymiserer og sletter personopplysninger. For NAV betyr det alle aktiviteter på Arbeids- og velferdsetatens ansvarsområde: direktoratet og enheter i linjene må lage en oversikt på sine områder, og hver kommune har plikt til å føre en oversikt for sine ansvarsområder i NAV-kontoret.
-NAV har laget en egen systemløsning, Behandlingskatalogen, som er et godt hjelpemiddel når vi skal dokumentere at vi etterlever pliktene vi har som behandlingsansvarlig   etter artikkel 30 i personvernforordningen. Behandlingskatalogen gir oss kontroll og oversikt over NAVs behandling av personopplysninger og beskytter rettighetene til alle vi har opplysninger om.
-Artikkel 30 i personvernforordningen stiller en rekke obligatoriske krav til hva en behandlingsoversikt skal inneholde av informasjon.
-Det er flere begreper innenfor personvern det kan være nyttig å ha kjennskap til før registrering i behandlingskatalogen. Disse er definert   og utdypet på personvernsidene våre på Navet  og i Begrepskatalogen. Det kan være nyttig å kjenne til følgende begreper:
+
+NAV har laget en egen systemløsning, Behandlingskatalogen, som er et godt hjelpemiddel når vi skal dokumentere at vi etterlever pliktene vi har som behandlingsansvarlig etter [artikkel 30 i personvernforordningen](https://lovdata.no/lov/2018-06-15-38/gdpr/a30). Behandlingskatalogen gir oss kontroll og oversikt over NAVs behandling av personopplysninger og beskytter rettighetene til alle vi har opplysninger om.
+
+[Artikkel 30 i personvernforordningen](https://lovdata.no/lov/2018-06-15-38/gdpr/a30) stiller en rekke obligatoriske krav til hva en behandlingsoversikt skal inneholde av informasjon.
+
+Det er flere begreper innenfor personvern det kan være nyttig å ha kjennskap til før registrering i behandlingskatalogen. Disse er definert og utdypet på [personvernsidene våre på Navet](https://navno.sharepoint.com/sites/intranett-personvern/SitePages/Kort-om-personvern.aspx) og i [Begrepskatalogen](https://confluence.adeo.no/display/BGRP/Begrepskatalogen+i+NAV). Det kan være nyttig å kjenne til følgende begreper:
 
 *	Personopplysninger
 *	Særlige kategorier av personopplysninger
@@ -23,7 +26,7 @@ Det er flere begreper innenfor personvern det kan være nyttig å ha kjennskap t
 ## 2.	Introduksjon til veilederen  og ansvarsfordeling
 Denne veilederen er ment som hjelp og støtte til forvaltning og utfylling av innholdet i Behandlingskatalogen.
 
-Veilederen beskriver hvem som har ansvaret og hvordan Behandlingskatalogen skal oppdateres.  Behandlingskatalogen er tilgjengelig for alle medarbeidere i NAV og er tilgjengelig på https://behandlingskatalog.intern.nav.no/ .
+Veilederen beskriver hvem som har ansvaret og hvordan Behandlingskatalogen skal oppdateres.  Behandlingskatalogen er tilgjengelig for alle medarbeidere i NAV og er tilgjengelig på https://behandlingskatalog.intern.nav.no/.
 Veilederen beskriver hvilken informasjon som skal registreres for hver behandlingsaktivitet, og den gir eksempler på kategorier eller alternativer der det er relevant. 
 
 ### 2.1 Hvem har ansvaret for Behandlingskatalogen
