@@ -26,14 +26,13 @@ Det er flere begreper innenfor personvern det kan være nyttig å ha kjennskap t
 ## 2.	Introduksjon til veilederen  og ansvarsfordeling
 Denne veilederen er ment som hjelp og støtte til forvaltning og utfylling av innholdet i Behandlingskatalogen.
 
-Veilederen beskriver hvem som har ansvaret og hvordan Behandlingskatalogen skal oppdateres.  Behandlingskatalogen er tilgjengelig for alle medarbeidere i NAV og er tilgjengelig på https://behandlingskatalog.intern.nav.no/.
-Veilederen beskriver hvilken informasjon som skal registreres for hver behandlingsaktivitet, og den gir eksempler på kategorier eller alternativer der det er relevant. 
+Veilederen beskriver hvem som har ansvaret og hvordan Behandlingskatalogen skal oppdateres. Behandlingskatalogen er tilgjengelig for alle medarbeidere i NAV og er tilgjengelig på https://behandlingskatalog.intern.nav.no/. Veilederen beskriver hvilken informasjon som skal registreres for hver behandlingsaktivitet, og den gir eksempler på kategorier eller alternativer der det er relevant. 
 
 ### 2.1 Hvem har ansvaret for Behandlingskatalogen
-Ansvarsfordelingen følger av [Ansvarsdokumentet for direktoratet pkt. 3.5](https://navno.sharepoint.com/sites/intranett-virksomhetsstyring/SitePages/Ansvarsdokumentet.aspx) og [Styringsdokument for personvern kap. 5](https://navno.sharepoint.com/sites/intranett-virksomhetsstyring/SitePages/Ansvarsdokumentet.aspx). Ansvaret er også tatt inn i Mål- og disponeringsbrevet  til avdelingene.
+Ansvarsfordelingen følger av [Ansvarsdokumentet for direktoratet pkt. 3.5](https://navno.sharepoint.com/sites/intranett-virksomhetsstyring/SitePages/Ansvarsdokumentet.aspx) og [Styringsdokument for personvern kap. 5](https://navno.sharepoint.com/sites/intranett-personvern/Retningslinjer/Forms/AllItems.aspx?id=%2Fsites%2Fintranett%2Dpersonvern%2FRetningslinjer%2FStyringsdokument%20for%20personvern%2Epdf&parent=%2Fsites%2Fintranett%2Dpersonvern%2FRetningslinjer). Ansvaret er også tatt inn i Mål- og disponeringsbrevet til avdelingene.
 
 **Rådgivningsseksjonen i Juridisk avdeling**  
-Rådgivningsseksjonen, som er ansvarlig for personvernregelverket, gir føringer for verktøyet Behandlingskatalogen  , slik at den legger til rette for å dokumentere behandlingene NAV gjør med personopplysninger på en oversiktlig måte, i tråd med kravene som stilles i [personvernforordningen artikkel 30](https://lovdata.no/lov/2018-06-15-38/gdpr/a30). Seksjon for informasjonsforvaltning har det overordnede ansvaret for etterlevelsesprosessen, og har dermed også en rolle i å bidra til videreutviklingen av verktøyet.
+Rådgivningsseksjonen, som er ansvarlig for personvernregelverket, gir føringer for verktøyet Behandlingskatalogen, slik at den legger til rette for å dokumentere behandlingene NAV gjør med personopplysninger på en oversiktlig måte, i tråd med kravene som stilles i [personvernforordningen artikkel 30](https://lovdata.no/lov/2018-06-15-38/gdpr/a30). Seksjon for informasjonsforvaltning har det overordnede ansvaret for etterlevelsesprosessen, og har dermed også en rolle i å bidra til videreutviklingen av verktøyet.
 
 Rådgivningsseksjonen har også ansvar for å gi juridisk rådgivning ved utfylling av Behandlingskatalogen.
 
