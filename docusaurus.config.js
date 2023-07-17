@@ -25,7 +25,7 @@ const config = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl: 'https://github.com/navikt/nakan/edit/main/',
+          editUrl: 'https://github.com/navikt/naka/edit/main/',
           routeBasePath: '/',
         },
         theme: {
