@@ -49,4 +49,4 @@ jobs:
           else
             npm i
           fi
-          yarn deploy
+          yarn deploy --force
