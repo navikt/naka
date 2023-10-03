@@ -176,8 +176,7 @@ Eksempler på eksterne virksomheter:
 
 Utleveringene NAV gjør skal være tilgjengelig nedtrekksmenyen i løsningen. Hvis ikke du finner den der, går du inn på «Utleveringer» i venstremenyen (se markering) og deretter «Opprett ny» til høyre i løsningen (se markering på bildet nedenfor).
 
-![](https://github.com/navikt/naka/blob/main/static/img/3.6%20Legg%20til%20Utlevering.png?raw=true)
-
+![](https://github.com/navikt/naka/blob/main/static/img/3.6%20Legg%20til%20utlevering%202.png) 
 **Overføres det personopplysninger til land eller virksomheter utenfor EU/EØS?**  
 Dersom personopplysninger overføres til andre behandlingsansvarlige eller databehandlere som opererer  i eller har tilknytning til et land utenfor EU/EØS, må det foreligge et behandlingsgrunnlag for denne overføringen.
 
