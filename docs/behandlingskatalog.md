@@ -193,7 +193,7 @@ Eksempler:
 *	samtykke
 *	EUs standardavtaler
 
-**Hva er det rettslige grunnlaget for å gjøre unntak fra taushetsplikten?**
+**Hva er det rettslige grunnlaget for å gjøre unntak fra taushetsplikten?**  
 Når vi skal utlevere personopplysninger, kreves det at vi må ha en hjemmel for å gjøre unntak fra taushetsplikten. Dette registreres under utleveringer. Der kan det også registreres dersom det er gjort en vurdering av grunnlaget for unntak fra taushetsplikten. Dersom dette ikke er vurdert, må det begrunnes.
 
 ### 3.7	Annet
