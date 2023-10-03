@@ -176,7 +176,8 @@ Eksempler på eksterne virksomheter:
 
 Utleveringene NAV gjør skal være tilgjengelig nedtrekksmenyen i løsningen. Hvis ikke du finner den der, går du inn på «Utleveringer» i venstremenyen (se markering) og deretter «Opprett ny» til høyre i løsningen (se markering på bildet nedenfor).
 
-![](https://github.com/navikt/naka/blob/main/static/img/3.6%20Legg%20til%20utlevering%202.png) 
+![](https://github.com/navikt/naka/blob/main/static/img/3.6%20Legg%20til%20utlevering%202.png?raw=true) 
+
 **Overføres det personopplysninger til land eller virksomheter utenfor EU/EØS?**  
 Dersom personopplysninger overføres til andre behandlingsansvarlige eller databehandlere som opererer  i eller har tilknytning til et land utenfor EU/EØS, må det foreligge et behandlingsgrunnlag for denne overføringen.
 
@@ -191,6 +192,9 @@ Eksempler:
 *	internasjonale trygdeavtaler
 *	samtykke
 *	EUs standardavtaler
+
+**Hva er det rettslige grunnlaget for å gjøre unntak fra taushetsplikten?**
+Når vi skal utlevere personopplysninger, kreves det at vi må ha en hjemmel for å gjøre unntak fra taushetsplikten. Dette registreres under utleveringer. Der kan det også registreres dersom det er gjort en vurdering av grunnlaget for unntak fra taushetsplikten. Dersom dette ikke er vurdert, må det begrunnes.
 
 ### 3.7	Annet
 **I hvilke systemer behandles personopplysningene?**  
