@@ -118,9 +118,9 @@ Eksempel:
 
 All behandling av personopplysninger må ha et behandlingsgrunnlag.
 Oppgi hvilket behandlingsgrunnlag som ligger til grunn for behandlingen. Ifølge personvernforordningen er det seks mulige rettsgrunnlag som kan benyttes, og det er laget en nedtrekksmeny i registreringsbildet. Dersom det er to rettslige grunnlag som ligger til grunn for behandlingen, tilsier det at området eller aktiviteten må splittes opp i to registreringer.
-Du kan lese om de forskjellige behandlingsgrunnlagene på [Navet](https://navno.sharepoint.com/sites/intranett-personvern/SitePages/Behandlingsgrunnlag.aspx?web=1).
+Du kan lese om de forskjellige behandlingsgrunnlagene på [Navet](https://navno.sharepoint.com/sites/intranett-personvern/SitePages/Behandlingsgrunnlag.aspx?web=1) og i [NAV sitt rundskriv om behandlingsgrunnlag](https://lovdata.no/nav/rundskriv/r83-00-32016r0679) på Lovdata.
 
-Er du i tvil   om hvilket rettsgrunnlag som kan anvendes, ta kontakt med fagansvarlig på området for veiledning. Dersom fagansvarlig har behov for veiledning, kan dette bes om på kanalen [#behandlingskatalogen](https://nav-it.slack.com/archives/CR1B19E6L) på Slack, eller per e-post til nav.juridisk.avdeling@nav.no dersom du ikke er på Slack. 
+Er du i tvil om hvilket rettsgrunnlag som kan anvendes, ta kontakt med fagansvarlig på området for veiledning. Dersom fagansvarlig har behov for veiledning, kan dette bes om i kanalen [#behandlingskatalogen](https://nav-it.slack.com/archives/CR1B19E6L) på Slack, eller per e-post til nav.juridisk.avdeling@nav.no dersom du ikke er på Slack. 
 
 Hvis det rettslige grunnlaget for behandlingen er rettslig forpliktelse etter Art. 6 (1) c eller offentlig myndighetsutøvelse etter Art. 6 (1) e, åpnes et nytt felt for å registrere dette. Det supplerende rettsgrunnlaget skal finnes i norsk lovgivning, og bør angis så presist som mulig. Kan man peke på en bestemt lov- og forskriftsbestemmelse, bør denne oppgis.
 
