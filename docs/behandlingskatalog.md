@@ -26,7 +26,7 @@ Det er flere begreper innenfor personvern det kan være nyttig å ha kjennskap t
 ## 2.	Introduksjon til veilederen  og ansvarsfordeling
 Denne veilederen er ment som hjelp og støtte til forvaltning og utfylling av innholdet i Behandlingskatalogen.
 
-Veilederen beskriver hvem som har ansvaret og hvordan Behandlingskatalogen skal oppdateres. Behandlingskatalogen er tilgjengelig for alle medarbeidere i NAV og er tilgjengelig på https://behandlingskatalog.intern.nav.no/. Veilederen beskriver hvilken informasjon som skal registreres for hver behandlingsaktivitet, og den gir eksempler på kategorier eller alternativer der det er relevant. 
+Veilederen beskriver hvem som har ansvaret og hvordan Behandlingskatalogen skal oppdateres. Behandlingskatalogen er tilgjengelig for alle medarbeidere i NAV og er tilgjengelig på https://behandlingskatalog.ansatt.nav.no/. Veilederen beskriver hvilken informasjon som skal registreres for hver behandlingsaktivitet, og den gir eksempler på kategorier eller alternativer der det er relevant. 
 
 ### 2.1 Hvem har ansvaret for Behandlingskatalogen
 Ansvarsfordelingen følger av [Ansvarsdokumentet for direktoratet pkt. 3.5](https://navno.sharepoint.com/sites/intranett-virksomhetsstyring/SitePages/Ansvarsdokumentet.aspx) og [Styringsdokument for personvern kap. 5](https://navno.sharepoint.com/sites/intranett-personvern/Retningslinjer/Forms/AllItems.aspx?id=%2Fsites%2Fintranett%2Dpersonvern%2FRetningslinjer%2FStyringsdokument%20for%20personvern%2Epdf&parent=%2Fsites%2Fintranett%2Dpersonvern%2FRetningslinjer). Ansvaret er også tatt inn i Mål- og disponeringsbrevet til avdelingene.
@@ -275,7 +275,7 @@ Team Datajegerne administrerer løsningen og har tilgang til grensesnittet for f
 ### 4.3 Litt om kode, API og tilgang m.m.
 
 **Test/Preprod, Kildekode, API, Datasett og Tilgang og headers**  
-Alle i NAV har både lese- og skrivetilgang til løsningen i preprod:[Behandlingskatalogen (Test)](https://behandlingskatalog.intern.dev.nav.no/)
+Alle i NAV har både lese- og skrivetilgang til løsningen i preprod:[Behandlingskatalogen (Test)](https://behandlingskatalog.ansatt.dev.nav.no/)
 
 **Kildekode**  
 * [Repo](https://github.com/navikt/polly)
