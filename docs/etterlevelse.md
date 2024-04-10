@@ -23,9 +23,9 @@ Produktet adresserer:
 
 ### Lenker
 * [Om etterlevelsekrav i systemutvikling på Navet](https://navno.sharepoint.com/sites/intranett-utvikling/SitePages/Etterlevelseskrav.aspx)
-* [Etterlevelse (prod)](https://etterlevelse.intern.nav.no/)
-* [Etterlevelse (test)](https://etterlevelse.intern.dev.nav.no/)
-* ["Om" seksjonen i selve løsningen](https://etterlevelse.intern.nav.no/help)
+* [Etterlevelse (prod)](https://etterlevelse.ansatt.nav.no/)
+* [Etterlevelse (test)](https://etterlevelse.ansatt.dev.nav.no/)
+* ["Om" seksjonen i selve løsningen](https://etterlevelse.ansatt.nav.no/help)
 
 ### Kontaktinformasjon
 [Team Datajegerne](https://teamkatalog.nav.no/team/264cebfa-ad46-4af9-8867-592f99f491e6) utvikler og forvalter løsningen. Du kan nå teamet på slack [#etterlevelse](https://nav-it.slack.com/archives/C01V697SSR2)
