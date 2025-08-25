@@ -58,7 +58,8 @@ Behandlingskatalogen har en funksjon for å eksportere behandlingsaktivitetene t
 
 ## 3.	Utfylling av feltene i Behandlingskatalogen 
  
-![](https://github.com/navikt/naka/blob/main/static/img/3%20Opprett%20behandling_2025_1.png?raw=true)  
+![](https://github.com/navikt/naka/blob/main/static/img/3%20Opprett%20behandling_2025_1.png?raw=true) 
+![](https://github.com/navikt/naka/blob/main/static/img/3%20Opprett%20behandling_2025_2.png?raw=true) 
 
 Registreringsbildet i Behandlingskatalogen ser slik ut. Det er lagt inn hjelpetekster til de ulike feltene som kommer frem når man holder musepekeren over det blå ikonet med et spørsmålstegn. 
 
@@ -66,7 +67,7 @@ Det er også viktig å merke seg at den som registrerer må huke av i registreri
 
 ### 3.1	Hvilken behandlingsaktivitet brukes personopplysningene til?
 
-![](https://github.com/navikt/naka/blob/main/static/img/3%20Opprett%20behandling_2025_2.png?raw=true)  
+![](https://github.com/navikt/naka/blob/main/static/img/3.1.%20Navn%20p%C3%A5%20behandling.png?raw=true) 
  
 Behandlingskatalogen er inndelt i to nivåer av behandlinger: Overordnet behandlingsaktivitet og behandling. De overordnede behandlingsaktivitetene er standardiserte, mens man selv fyller inn tittelen på behandlingen i et fritekstfelt (markert med «Navn»).
 
