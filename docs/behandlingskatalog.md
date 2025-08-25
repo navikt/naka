@@ -145,7 +145,7 @@ Under dette punktet registreres det «Ja», «Nei» eller «Uavklart». Dersom d
 
 ### 3.6 Kunstig intelligens
 
-![](https://github.com/navikt/naka/blob/main/static/img/3.6%20Kunstig%20intelligens.png?raw=true)
+![](https://github.com/navikt/naka/blob/main/static/img/3.6%20Kunstig%20intelligens_2025.png?raw=true)
 
 Under dette punktet skal det registres om KI-systemer benyttes for å gjennomføre behandlingen. Svar «Ja», «Nei» eller «Uavklart» i dette feltet. Dersom du svarer «Ja», må du samtidig beskrive hvilken rolle KI-systemet har. Benyttes flere KI-systemer skal alle beskrives. Dersom du svarer «Uavklart», skal dette undersøkes omgående og oppdateres i registreringen.
 
