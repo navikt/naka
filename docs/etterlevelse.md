@@ -43,8 +43,8 @@ Produktet adresserer:
 * [Swagger API (Test)](https://etterlevelse-api.dev.intern.nav.no/swagger-ui/index.html)
 
 ### Datasett
-* [Etterlevelseskrav i Metabase](https://metabase.intern.nav.no/browse/95-teamdatajegerne-etterlevelse-krav)
-* [Etterlevelsesdokumentasjon i Metabase](https://metabase.intern.nav.no/browse/96-teamdatajegerne-etterlevelse-etterlevelse)
+* [Etterlevelseskrav i Metabase](https://metabase.ansatt.nav.no/browse/95-teamdatajegerne-etterlevelse-krav)
+* [Etterlevelsesdokumentasjon i Metabase](https://metabase.ansatt.nav.no/browse/96-teamdatajegerne-etterlevelse-etterlevelse)
 
 ### Tilgang og headers
 API er åpent for lesing for alle Nav-ansatte på en Nav-innrullert enhet, men eksponeres ikke eksternt utenfor Nav. 
