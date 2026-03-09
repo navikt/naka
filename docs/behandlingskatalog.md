@@ -264,16 +264,47 @@ Eksempler:
 *	rekrutteringssystem
 *	database
 
+## 4. Nav som databehandler
+Når Arbeids- og velferdsetaten (Nav) er databehandler på vegne av andre offentlige virksomheter, skal alle behandlingsaktiviteter som utføres på vegne av en behandlingsansvarlig også registreres i Behandlingskatalogen. Et eksempel er der kommunene benytter seg av Arbeids- og velferdsetatens IT-systemer til eget bruk. Etaten som databehandler vil kun ha tilgang til kommunale opplysningene som drifter og forvalter av IT-systemet og kan ikke behandle disse til egne formål. Det er en forutsetning at det foreligger en skriftlig databehandleravtale med behandlingsansvarlig.
+Registreringen gjøres i «Nav som databehandler» i venstremenyen (se markering på bildet nedenfor) og deretter ved å trykke på «Opprett ny behandling» på høyre side.
+<img>
 
-## 4. Systeminformasjon
-### 4.1 Litt om arkitektur  
+### 4.1 Utfylling av feltene
+<img>
+Slik ser registreringsbildet ut. Det er lagt inn hjelpetekster til de ulike feltene som kommer frem når du holder musepekeren over ikonet med en «i». Mange av feltene som skal fylles ut er de samme som under «Behandling», se veiledningen i kap. 3 om utfylling av feltene i Behandlingskatalogen. 
+
+**Hvem er ansvarlig for registreringen?**  
+Det er den avdeling eller Nav-enhet som har hovedansvaret for behandlingen som er regulert i databehandleravtalen, som må fylle ut feltene og som er ansvarlig for at de til enhver tid er oppdatert.
+
+**Gyldighetsperiode for behandlingen**  
+Angi tidspunktet for når databehandleravtalen ble inngått og eventuell sluttdato for opphør av avtalen. Gyldighetsperioden skal fremgå av databehandleravtalen. 
+
+**Behandles det særlige kategorier av personopplysninger?**  
+Angi enten Ja, Nei, eller Uavklart. Om det behandles særlige kategorier av personopplysninger skal det fremgå av databehandleravtalens vedlegg om Databehandlingens omfang og type personopplysninger.
+
+**Behandles det personopplysninger om straffedommer og lovovertredelser**  
+Angi enten Ja, Nei eller uavklart. Om det behandles denne type kategorier av personopplysninger bør det fremgå av databehandleravtalens vedlegg om Databehandlingens omfang og type personopplysninger.
+
+**Ref. til databehandleravtale**  
+Legg inn lenke til arkivert databehandleravtale.
+
+**Underdatabehandler**  
+Angi Ja, Nei eller uavklart. Med underdatabehandlere menes virksomheter som behandler personopplysninger på vegne av etaten. Om etaten som databehandler benytter underdatabehandlere for å kunne levere tjenesten, skal det fremgå av databehandleravtalens vedlegg om Bruk av underdatabehandlere.
+
+**Lagringsbehov**  
+Hvor lenge Nav er forpliktet til å lagre opplysningene på vegne av behandlingsansvarlig, skal fremgå av databehandleravtalens vedlegg om Databehandlingens omfang. 
+Angi tidspunktene i datofeltene. Når avtalen er opphørt skal behandlingen stoppe. Behandlingen vil da ikke lenger ha status «Aktiv». 
+
+
+## 5. Systeminformasjon
+### 5.1 Litt om arkitektur  
 Behandlingskatalogen består av backend (java spring boot) Polly (fra "Policy Catalog") og en frontend (react app).
 All data er åpent tilgjengelig internt i Nav uten innlogging. Brukere med skrivetilgang kan endre data. Innlogging skjer via Single Sign-On via Azure AD, brukere i frontend vil få en session cookie som varer i 14 dager. APIet støtter innlogging via Authorization header med Bearer token (access token fra Azure).
 
 Løsningen bruker PostgreSQL som datakilde men de fleste felter er lagret i JSONB kolonner.
 Eksterne kilder til data inkluderer teamkatalogen og begrepskatalogen og felles kodeverk.
 
-### 4.2 Administratorer  
+### 5.2 Administratorer  
 Team Datajegerne administrerer løsningen og har tilgang til grensesnittet for følgende admin-funksjoner:
 * Administrasjon av tilgang til applikasjonen.
 * Versjonshistorikk som inkludert timestamp , hvem som har endret noe, samt et snapshot av hele dataobjektet når det ble endret.
@@ -282,7 +313,7 @@ Team Datajegerne administrerer løsningen og har tilgang til grensesnittet for f
 **Kontaktinformasjon**  
 [Team Datajegerne](https://teamkatalog.nav.no/team/264cebfa-ad46-4af9-8867-592f99f491e6) utvikler og forvalter løsningen. Du kan nå teamet på slack [#behandlingskatalogen](https://nav-it.slack.com/archives/CR1B19E6L)
 
-### 4.3 Litt om kode, API og tilgang m.m.
+### 5.3 Litt om kode, API og tilgang m.m.
 
 **Test/Preprod, Kildekode, API, Datasett og Tilgang og headers**  
 Alle i Nav har både lese- og skrivetilgang til løsningen i preprod:[Behandlingskatalogen (Test)](https://behandlingskatalog.ansatt.dev.nav.no/)
