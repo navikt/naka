@@ -265,12 +265,16 @@ Eksempler:
 *	database
 
 ## 4. Nav som databehandler
+
 Når Arbeids- og velferdsetaten (Nav) er databehandler på vegne av andre offentlige virksomheter, skal alle behandlingsaktiviteter som utføres på vegne av en behandlingsansvarlig også registreres i Behandlingskatalogen. Et eksempel er der kommunene benytter seg av Arbeids- og velferdsetatens IT-systemer til eget bruk. Etaten som databehandler vil kun ha tilgang til kommunale opplysningene som drifter og forvalter av IT-systemet og kan ikke behandle disse til egne formål. Det er en forutsetning at det foreligger en skriftlig databehandleravtale med behandlingsansvarlig.
 Registreringen gjøres i «Nav som databehandler» i venstremenyen (se markering på bildet nedenfor) og deretter ved å trykke på «Opprett ny behandling» på høyre side.
-<img>
+
+![](https://github.com/navikt/naka/blob/main/static/img/4%20Nav%20som%20databehandler.png?raw=true)  
 
 ### 4.1 Utfylling av feltene
-<img>
+
+![](https://github.com/navikt/naka/blob/main/static/img/4.1%20Utfylling%20av%20feltene.png?raw=true)  
+
 Slik ser registreringsbildet ut. Det er lagt inn hjelpetekster til de ulike feltene som kommer frem når du holder musepekeren over ikonet med en «i». Mange av feltene som skal fylles ut er de samme som under «Behandling», se veiledningen i kap. 3 om utfylling av feltene i Behandlingskatalogen. 
 
 **Hvem er ansvarlig for registreringen?**  
