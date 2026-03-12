@@ -58,8 +58,8 @@ Behandlingskatalogen har en funksjon for å eksportere behandlingsaktivitetene t
 
 ## 3.	Utfylling av feltene i Behandlingskatalogen 
  
-![](/static/img/3%20Opprett%20behandling_2025_1.png) 
-![](/static/img/3%20Opprett%20behandling_2025_2.png) 
+![](/img/3%20Opprett%20behandling_2025_1.png) 
+![](/img/3%20Opprett%20behandling_2025_2.png) 
 
 Registreringsbildet i Behandlingskatalogen ser slik ut. Det er lagt inn hjelpetekster til de ulike feltene som kommer frem når man holder musepekeren over det blå ikonet med et spørsmålstegn. 
 
