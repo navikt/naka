@@ -153,7 +153,7 @@ Hvis personopplysninger som er innhentet for behandlingens formål gjenbrukes ti
 
 Dato for når KI-systemene benyttes skal også registreres.
 
-### 3.7	Databehandlere og andre tredjeparter
+### 3.7	Databehandlere og utleveringer
 **Benyttes det databehandler(e)?**  
 
 ![](/img/3.6%20Databehandler.png)
