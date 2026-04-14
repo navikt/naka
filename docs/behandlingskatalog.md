@@ -172,6 +172,8 @@ Eksempler på databehandlere:
 *	leverandører som bidrar til forsøksordninger og utredninger
 *	en annen offentlig virksomhet som gjør et oppdrag på vegne av Nav
 
+### 3.8 Utleveringer
+
 **Utleveres personopplysningene til andre utenfor Nav?**  
 
 ![](/img/3.6%20Utlevering.png)
@@ -206,24 +208,24 @@ Eksempler:
 **Hva er det rettslige grunnlaget for å gjøre unntak fra taushetsplikten?**  
 Når vi skal utlevere personopplysninger, kreves det at vi må ha en hjemmel for å gjøre unntak fra taushetsplikten. Dette registreres under utleveringer. Der kan det også registreres dersom det er gjort en vurdering av grunnlaget for unntak fra taushetsplikten. Dersom dette ikke er vurdert, må det begrunnes.
 
-### 3.8	Annet
+### 3.9	Annet
 **I hvilke systemer behandles personopplysningene?**  
 Angi i hvilke systemer personopplysninger behandles. Med systemer mener vi både interne og eksterne IT-systemer, apper, skytjeneser og plattformer og fysiske og digitale arkiv. Dersom du ikke finner systemet i nedtrekksmenyen i løsningen, må det bes om at det aktuelle systemet legges til, i kanalen #behandlingskatalogen på Slack.
 
-### 3.9	Hvilken tidsfrist har dere satt for hvor lenge personopplysningene skal lagres?
+### 3.10	Hvilken tidsfrist har dere satt for hvor lenge personopplysningene skal lagres?
 
 ![](/img/3.8%20Lagringsbehov.png)  
  
 Etter personvernforordningen skal personopplysninger ikke lagres lenger enn nødvendig for å gjennomføre formålet de er samlet inn for. Etter det skal de slettes. Det er hovedregelen med mindre annen lovgivning pålegger lengre lagringstid, som for eksempel arkivlovgivning og regnskapslovgivning.
 Oppgi om behandlingen omfattes av Navs bevarings- og kassasjonsvedtak  og hvor lenge opplysningene skal lagres. Vis til begrunnelsen for lagringstid ved å legge inn referanse til aktuelt skjema for lagring på Confluence  eller i Public 360. 
 
-### 3.10	Personvernkonsekvensvurdering (PVK)
+### 3.11	Personvernkonsekvensvurdering (PVK)
 
 ![](/img/3.9%20PVK.png)
  
 Oppgi om det er behov for PVK ved å velge «Ja», «Nei» eller «Uavklart». Dersom det angis at det er «Uavklart» må dette vurderes omgående og oppdateres i løsningen. Hvis det er behov for å gjennomføre PVK skal referansen til PVK-en i Public 360 legges til. Hvis man kommer til at det ikke er behov for å gjennomføre PVK, må det velges en begrunnelse for dette. 
 
-### 3.11	Personopplysninger i behandlingen
+### 3.12	Personopplysninger i behandlingen
 
 ![](/img/3.10%20Opplysningstyper.png) 
 
