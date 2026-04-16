@@ -10,11 +10,15 @@ const config = {
   url: 'https://navikt.github.io',
   baseUrl: '/naka/',
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'navikt',
   projectName: 'naka',
   trailingSlash: false,
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   presets: [
     [
