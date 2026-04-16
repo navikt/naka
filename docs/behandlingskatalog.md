@@ -58,8 +58,8 @@ Behandlingskatalogen har en funksjon for å eksportere behandlingsaktivitetene t
 
 ## 3.	Utfylling av feltene i Behandlingskatalogen 
  
-![](/img/3%20Opprett%20behandling_2025_1.png) 
-![](/img/3%20Opprett%20behandling_2025_2.png) 
+![](/static/img/3%20Opprett%20behandling_2025_1.png) 
+![](/static/img/3%20Opprett%20behandling_2025_2.png) 
 
 Registreringsbildet i Behandlingskatalogen ser slik ut. Det er lagt inn hjelpetekster til de ulike feltene som kommer frem når man holder musepekeren over det blå ikonet med et spørsmålstegn. 
 
@@ -67,7 +67,7 @@ Det er også viktig å merke seg at den som registrerer må huke av i registreri
 
 ### 3.1	Hvilken behandlingsaktivitet brukes personopplysningene til?
 
-![](/img/3.1.%20Navn%20p%C3%A5%20behandling.png) 
+![](/static/img/3.1.%20Navn%20p%C3%A5%20behandling.png) 
  
 Behandlingskatalogen er inndelt i to nivåer av behandlinger: Overordnet behandlingsaktivitet og behandling. De overordnede behandlingsaktivitetene er standardiserte, mens man selv fyller inn tittelen på behandlingen i et fritekstfelt (markert med «Navn»).
 
@@ -88,7 +88,7 @@ Behandlingsgrunnlaget følger av folketrygdlovens kap. 10 og er utøvelse av off
 
 ### 3.2	Hva er formålet  med behandlingen av personopplysningene?
 
-![](/img/3.2.%20Form%C3%A5let%20med%20behandlingen.png)  
+![](/static/img/3.2.%20Form%C3%A5let%20med%20behandlingen.png)  
 
 Angi formålet med innsamling og bruk av personopplysningene innen tjeneste- eller fagområdet. Formålet skal være spesifikt og legitimt. Det betyr at formålet må angis slik at det er tydelig at det er dekket av behandlingsgrunnlaget. Formålene vil for Nav sin del ofte følge av lovbestemmelsen/kapittelet i folketrygdloven eller Nav-loven som er behandlingsgrunnlaget for den aktuelle behandlingen. Dersom opplysningene skal brukes til flere formål, vil det si at det i praksis er snakk om flere ulike behandlinger. Det må derfor også registreres som flere behandlinger i Behandlingskatalogen. 
 
@@ -103,7 +103,7 @@ Eksempel på beskrivelse av formål:
 
 ### 3.3	Hvem er ansvarlig for behandlingen?
 
-![](/img/3.3%20Ansvarlig%20for%20behandlingen.png) 
+![](/static/img/3.3%20Ansvarlig%20for%20behandlingen.png) 
 
 Hver avdeling skal registrere de behandlingsaktivitetene som de har fagansvaret og eventuelt linjeansvaret for. 
 
@@ -114,7 +114,7 @@ Eksempel:
 
 ### 3.4	Hva er behandlingsgrunnlaget for behandlingen?
 
-![](/img/3.4.%20Behandlingsgrunnlag.png) 
+![](/static/img/3.4.%20Behandlingsgrunnlag.png) 
 
 All behandling av personopplysninger må ha et behandlingsgrunnlag.
 Oppgi hvilket behandlingsgrunnlag som ligger til grunn for behandlingen. Ifølge personvernforordningen er det seks mulige rettsgrunnlag som kan benyttes, og det er laget en nedtrekksmeny i registreringsbildet. Dersom det er to rettslige grunnlag som ligger til grunn for behandlingen, tilsier det at området eller aktiviteten må splittes opp i to registreringer.
@@ -133,7 +133,7 @@ Behandling av særlige kategorier av personopplysninger er i utgangspunktet ikke
 
 ### 3.5	Blir det gjort helautomatiserte individuelle avgjørelser og brukes profilering?
   
-![](/img/3.5%20Automatisernig%20og%20profilering.png)
+![](/static/img/3.5%20Automatisernig%20og%20profilering.png)
 
 **Helautomatiserte avgjørelser**  
 Tas det avgjørelser som gjelder en person uten at det gjøres noen menneskelige vurderinger, må det angis at behandlingen er helautomatisert. For at det skal være snakk om en helautomatisk avgjørelse, må det dreie seg om avgjørelser som har rettsvirkninger eller som har store konsekvenser for den enkelte. Under dette punktet registreres det «Ja», «Nei» eller «Uavklart». Dersom det registreres at det er uavklart, må dette avklares omgående og etterregistreres. Områder der vedtaksprosessen i dag er helautomatisert, er barnetrygd, pensjon og foreldrepengeområdet.
@@ -145,7 +145,7 @@ Under dette punktet registreres det «Ja», «Nei» eller «Uavklart». Dersom d
 
 ### 3.6 Kunstig intelligens
 
-![](/img/3.6%20Kunstig%20intelligens_2025.png)
+![](/static/img/3.6%20Kunstig%20intelligens_2025.png)
 
 Under dette punktet skal det registres om KI-systemer benyttes for å gjennomføre behandlingen. Svar «Ja», «Nei» eller «Uavklart» i dette feltet. Dersom du svarer «Ja», må du samtidig beskrive hvilken rolle KI-systemet har. Benyttes flere KI-systemer skal alle beskrives. Dersom du svarer «Uavklart», skal dette undersøkes omgående og oppdateres i registreringen.
 
@@ -156,14 +156,14 @@ Dato for når KI-systemene benyttes skal også registreres.
 ### 3.7	Databehandlere og utleveringer
 **Benyttes det databehandler(e)?**  
 
-![](/img/3.6%20Databehandler.png)
+![](/static/img/3.6%20Databehandler.png)
 
 Dersom det benyttes databehandlere, skal dette oppgis her. Svar «Ja», «Nei» eller «Uavklart» i dette feltet. Dersom du svarer «Ja», skal databehandleren velges fra nedtrekksmenyen. Dersom du svarer «Uavklart», skal dette undersøkes omgående og oppdateres i registreringen.
 
 Hvis ikke databehandleren er oppført i nedtrekksmenyen, kan den legges til under «Databehandlere» i venstremenyen (se markering på bildet nedenfor) og deretter «Opprett ny databehandler» (se markering på bildet nedenfor). Du skal da også registrere om databehandleren behandler personopplysninger utenfor EU/EØS, og ev. i hvilket land.
 
-![](/img/3.6%20Legg%20til%20Databehandler.png)
-![](/img/3.6%20Legg%20til%20Databehandler%202.png)
+![](/static/img/3.6%20Legg%20til%20Databehandler.png)
+![](/static/img/3.6%20Legg%20til%20Databehandler%202.png)
 
 Eksempler på databehandlere:
 *	leverandører av IT-systemer
@@ -174,7 +174,7 @@ Eksempler på databehandlere:
 
 **Utleveres personopplysningene til andre utenfor Nav?**  
 
-![](/img/3.6%20Utlevering.png)
+![](/static/img/3.6%20Utlevering.png)
 
 Her oppgir du hvilke eksterne virksomheter Nav utleverer personopplysninger til, dersom dette gjøres som en del av behandlingen. Det omfatter utlevering som bygger på lovhjemler, og der Nav har en rett eller plikt til å utlevere personopplysninger. Kun regelmessige utleveringer skal oppgis. 
 
@@ -186,7 +186,7 @@ Eksempler på eksterne virksomheter:
 
 Utleveringene Nav gjør skal være tilgjengelig nedtrekksmenyen i løsningen. Hvis ikke du finner den der, går du inn på «Utleveringer» i venstremenyen (se markering på bildet nedenfor) og deretter «Opprett ny» til høyre i løsningen (se markering på bildet nedenfor).
 
-![](/img/3.6%20Legg%20til%20utlevering%202.png) 
+![](/static/img/3.6%20Legg%20til%20utlevering%202.png) 
 
 **Overføres det personopplysninger til land eller virksomheter utenfor EU/EØS?**  
 Dersom personopplysninger overføres til andre behandlingsansvarlige eller databehandlere som opererer  i eller har tilknytning til et land utenfor EU/EØS, må det foreligge et behandlingsgrunnlag for denne overføringen.
@@ -212,27 +212,27 @@ Angi i hvilke systemer personopplysninger behandles. Med systemer mener vi både
 
 ### 3.9	Hvilken tidsfrist har dere satt for hvor lenge personopplysningene skal lagres?
 
-![](/img/3.8%20Lagringsbehov.png)  
+![](/static/img/3.8%20Lagringsbehov.png)  
  
 Etter personvernforordningen skal personopplysninger ikke lagres lenger enn nødvendig for å gjennomføre formålet de er samlet inn for. Etter det skal de slettes. Det er hovedregelen med mindre annen lovgivning pålegger lengre lagringstid, som for eksempel arkivlovgivning og regnskapslovgivning.
 Oppgi om behandlingen omfattes av Navs bevarings- og kassasjonsvedtak  og hvor lenge opplysningene skal lagres. Vis til begrunnelsen for lagringstid ved å legge inn referanse til aktuelt skjema for lagring på Confluence  eller i Public 360. 
 
 ### 3.10	Personvernkonsekvensvurdering (PVK)
 
-![](/img/3.9%20PVK.png)
+![](/static/img/3.9%20PVK.png)
  
 Oppgi om det er behov for PVK ved å velge «Ja», «Nei» eller «Uavklart». Dersom det angis at det er «Uavklart» må dette vurderes omgående og oppdateres i løsningen. Hvis det er behov for å gjennomføre PVK skal referansen til PVK-en i Public 360 legges til. Hvis man kommer til at det ikke er behov for å gjennomføre PVK, må det velges en begrunnelse for dette. 
 
 ### 3.11	Personopplysninger i behandlingen
 
-![](/img/3.10%20Opplysningstyper.png) 
+![](/static/img/3.10%20Opplysningstyper.png) 
 
 **Hvilke kategorier av personopplysninger behandles?**  
 Etter at behandlingen er registrert må du angi hvilke kategorier av personopplysninger som behandles. Dette gjøres ved å trykke på «Opplysningstype» nederst til høyre i oversikten over behandlingen. Velg de kategoriene av opplysningstyper som brukes i behandlingen. 
 
 Dersom det brukes en opplysningstype som ikke står i oversikten, kan denne legges til under «Opplysningstyper» i venstremenyen (se markering på bildet nedenfor) og deretter ved å trykke på «Opprett ny» på høyre side. 
 
-![](/img/3.10%20Legg%20til%20Opplysningstype.png) 
+![](/static/img/3.10%20Legg%20til%20Opplysningstype.png) 
 
 **Behandles det særlige kategorier av personopplysninger?**  
 Hvis særlige kategorier av personopplysninger (sensitive personopplysninger) behandles innen det respektive fagområdet, skal man også registrere behandlingsgrunnlaget for denne behandlingen.
@@ -243,7 +243,7 @@ Dersom det behandles personopplysninger om straffedommer og lovovertredelser ang
 **Hvilke grupper av personer behandles det personopplysninger om?**  
 Under finner dere grupper av personer som Nav behandler personopplysninger om. Bruk disse kategoriene i oversikten til å registrere hvem personopplysningene som behandles gjelder. Dersom ingen av dem passer, kan dere skrive inn en ny gruppe i feltet. Dersom det behandles personopplysninger om flere grupper, må alle disse angis.
 
-![](/img/Grupper%20av%20registrerte.png)
+![](/static/img/Grupper%20av%20registrerte.png)
 
 **Fra hvilke kilder utenfor Nav innhentes personopplysninger?**  
 Personopplysninger innhentes typisk fra brukeren selv og fra ulike eksterne kilder.
@@ -269,11 +269,11 @@ Eksempler:
 Når Arbeids- og velferdsetaten (Nav) er databehandler på vegne av andre offentlige virksomheter, skal alle behandlingsaktiviteter som utføres på vegne av en behandlingsansvarlig også registreres i Behandlingskatalogen. Et eksempel er der kommunene benytter seg av Arbeids- og velferdsetatens IT-systemer til eget bruk. Etaten som databehandler vil kun ha tilgang til kommunale opplysningene som drifter og forvalter av IT-systemet og kan ikke behandle disse til egne formål. Det er en forutsetning at det foreligger en skriftlig databehandleravtale med behandlingsansvarlig.
 Registreringen gjøres i «Nav som databehandler» i venstremenyen (se markering på bildet nedenfor) og deretter ved å trykke på «Opprett ny behandling» på høyre side.
 
-![](/img/4%20Nav%20som%20databehandler.png)  
+![](/static/img/4%20Nav%20som%20databehandler.png)  
 
 ### 4.1 Utfylling av feltene
 
-![](/img/4.1%20Utfylling%20av%20feltene.png)  
+![](/static/img/4.1%20Utfylling%20av%20feltene.png)  
 
 Slik ser registreringsbildet ut. Det er lagt inn hjelpetekster til de ulike feltene som kommer frem når du holder musepekeren over ikonet med en «i». Mange av feltene som skal fylles ut er de samme som under «Behandling», se veiledningen i kap. 3 om utfylling av feltene i Behandlingskatalogen. 
 
