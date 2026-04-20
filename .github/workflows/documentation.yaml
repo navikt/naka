@@ -22,7 +22,7 @@ jobs:
           DEBUG: "*"
         run: |
           npm ci
-          npm run build -- --locale en
+          npm run build
   gh-release:
     if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
