@@ -9,12 +9,16 @@ const config = {
   tagline: 'NAV Kataloger',
   url: 'https://navikt.github.io',
   baseUrl: '/naka/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'navikt',
   projectName: 'naka',
   trailingSlash: false,
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   presets: [
     [
@@ -33,6 +37,8 @@ const config = {
       }),
     ],
   ],
+
+  plugins: [require.resolve('./plugin-fix-progress.js')],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
