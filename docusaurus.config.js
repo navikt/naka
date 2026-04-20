@@ -38,6 +38,8 @@ const config = {
     ],
   ],
 
+  plugins: [require.resolve('./plugin-fix-progress.js')],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
