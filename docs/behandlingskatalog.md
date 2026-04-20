@@ -157,13 +157,14 @@ Dato for når KI-systemene benyttes skal også registreres.
 **Benyttes det databehandler(e)?**  
 
 ![](/img/3.6%20Databehandler.png)
+![](/img/3.6%20Databehandler%202.png)
 
 Dersom det benyttes databehandlere, skal dette oppgis her. Svar «Ja», «Nei» eller «Uavklart» i dette feltet. Dersom du svarer «Ja», skal databehandleren velges fra nedtrekksmenyen. Dersom du svarer «Uavklart», skal dette undersøkes omgående og oppdateres i registreringen.
 
 Hvis ikke databehandleren er oppført i nedtrekksmenyen, kan den legges til under «Databehandlere» i venstremenyen (se markering på bildet nedenfor) og deretter «Opprett ny databehandler» (se markering på bildet nedenfor). Du skal da også registrere om databehandleren behandler personopplysninger utenfor EU/EØS, og ev. i hvilket land.
 
 ![](/img/3.6%20Legg%20til%20Databehandler.png)
-![](/img/3.6%20Legg%20til%20Databehandler%202.png)
+
 
 Eksempler på databehandlere:
 *	leverandører av IT-systemer
@@ -186,7 +187,9 @@ Eksempler på eksterne virksomheter:
 
 Utleveringene Nav gjør skal være tilgjengelig nedtrekksmenyen i løsningen. Hvis ikke du finner den der, går du inn på «Utleveringer» i venstremenyen (se markering på bildet nedenfor) og deretter «Opprett ny» til høyre i løsningen (se markering på bildet nedenfor).
 
-![](/img/3.6%20Legg%20til%20utlevering%202.png) 
+![](/img/3.6%20Legg%20til%20Utlevering.png)
+
+![](/img/3.6%20Legg%20til%20Utlevering%202.png) 
 
 **Overføres det personopplysninger til land eller virksomheter utenfor EU/EØS?**  
 Dersom personopplysninger overføres til andre behandlingsansvarlige eller databehandlere som opererer  i eller har tilknytning til et land utenfor EU/EØS, må det foreligge et behandlingsgrunnlag for denne overføringen.
