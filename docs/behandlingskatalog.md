@@ -157,7 +157,6 @@ Dato for når KI-systemene benyttes skal også registreres.
 **Benyttes det databehandler(e)?**  
 
 ![](/img/3.6%20Databehandler.png)
-![](/img/3.6%20Databehandler%202.png)
 
 Dersom det benyttes databehandlere, skal dette oppgis her. Svar «Ja», «Nei» eller «Uavklart» i dette feltet. Dersom du svarer «Ja», skal databehandleren velges fra nedtrekksmenyen. Dersom du svarer «Uavklart», skal dette undersøkes omgående og oppdateres i registreringen.
 
