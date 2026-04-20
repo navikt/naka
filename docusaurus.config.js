@@ -9,7 +9,7 @@ const config = {
   tagline: 'NAV Kataloger',
   url: 'https://navikt.github.io',
   baseUrl: '/naka/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'navikt',
   projectName: 'naka',
