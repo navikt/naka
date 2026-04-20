@@ -18,9 +18,11 @@ jobs:
         with:
           node-version: '20.x'
       - name: Test Build
+        env:
+          DEBUG: "*"
         run: |
           npm ci
-          npm run build -- --locale en --verbose
+          npm run build -- --locale en
   gh-release:
     if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
