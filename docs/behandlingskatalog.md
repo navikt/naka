@@ -219,13 +219,7 @@ Angi i hvilke systemer personopplysninger behandles. Med systemer mener vi både
 Etter personvernforordningen skal personopplysninger ikke lagres lenger enn nødvendig for å gjennomføre formålet de er samlet inn for. Etter det skal de slettes. Det er hovedregelen med mindre annen lovgivning pålegger lengre lagringstid, som for eksempel arkivlovgivning og regnskapslovgivning.
 Oppgi om behandlingen omfattes av Navs bevarings- og kassasjonsvedtak  og hvor lenge opplysningene skal lagres. Vis til begrunnelsen for lagringstid ved å legge inn referanse til aktuelt skjema for lagring på Confluence  eller i Public 360. 
 
-### 3.10	Personvernkonsekvensvurdering (PVK)
-
-![](/img/3.9%20PVK.png)
- 
-Oppgi om det er behov for PVK ved å velge «Ja», «Nei» eller «Uavklart». Dersom det angis at det er «Uavklart» må dette vurderes omgående og oppdateres i løsningen. Hvis det er behov for å gjennomføre PVK skal referansen til PVK-en i Public 360 legges til. Hvis man kommer til at det ikke er behov for å gjennomføre PVK, må det velges en begrunnelse for dette. 
-
-### 3.11	Personopplysninger i behandlingen
+### 3.10	Personopplysninger i behandlingen
 
 ![](/img/3.10%20Opplysningstyper.png) 
 
