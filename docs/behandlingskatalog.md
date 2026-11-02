@@ -98,7 +98,7 @@ Hvis behandlingen skal være overordnet, så velger du det som behandlingstype. 
 
 Du kan også opprette en underordnet behandling direkte via en overordnet behandling. Dette gjør du ved å gå til fanen «Underordnede behandlinger», og trykke på «Opprett ny underordnet behandling». Når du oppretter en underordnet behandling på denne måten, arver du innholdet fra den overordnede. Dersom du heller gjør en eksisterende behandling til underordnet, arves ikke innholdet fra den overordnede behandlingen.
 
-![Skjermbilde viser oversikten med alle feltene i en behandling. Nederst til høyre er knappen «Opprett ny underordnet behandling» er markert](/img/3.2%Oversikt.png) 
+![Skjermbilde viser oversikten med alle feltene i en behandling. Nederst til høyre er knappen «Opprett ny underordnet behandling» er markert](/img/3.2%20Oversikt.png) 
 
 De feltene i den underordnede behandlingen som ikke samsvarer med den overordnede, markeres med en lilla prikk. 
 
