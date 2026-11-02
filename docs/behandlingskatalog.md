@@ -58,8 +58,8 @@ Behandlingskatalogen har en funksjon for å eksportere behandlingsaktivitetene t
 
 ## 3.	Utfylling av feltene i Behandlingskatalogen 
  
-![](/img/3%20Opprett%20behandling_2025_1.png) 
-![](/img/3%20Opprett%20behandling_2025_2.png) 
+![](/img/3%20Opprett%20behandling_2026_1.png) 
+![](/img/3%20Opprett%20behandling_2026_2.png) 
 
 Registreringsbildet i Behandlingskatalogen ser slik ut. Det er lagt inn hjelpetekster til de ulike feltene som kommer frem når man holder musepekeren over det blå ikonet med et spørsmålstegn. 
 
@@ -85,6 +85,22 @@ Fagområdet «Hjelpemidler» kan grupperes under et felles formål:
 «Kompensere for bestemte utgifter til bedring av arbeidsevnen og funksjonsevnen i arbeidslivet og dagliglivet for medlemmer som har sykdom, skade eller lyte, jf. folketrygdloven § 10-7».
 
 Behandlingsgrunnlaget følger av folketrygdlovens kap. 10 og er utøvelse av offentlig myndighet etter personvernforordningen, jf. art. 6 (1) e og art. 9 (2) b. Dette taler for at vi kan gruppere det som kun én behandlingsaktivitet. Men siden det er store variasjoner i hvilke kategorier av personopplysninger som behandles, ulikt behandlingsgrunnlag og bruk av tredjeparter som databehandlere, må det likevel deles opp i flere behandlingsaktiviteter.
+
+### 3.2	Overordnet og underordnet behandling
+
+![](/img/3.2%20Overordnet%20og%20underordnet%20behandling.png) 
+
+I en stor og desentralisert virksomhet som Nav vil det være mange behandlinger som i hovedsak er av samme karakter, men med eventuelle enkelte variasjoner. Et eksempel på dette er kameraovervåkning. I den overordnede behandlingen beskrives felles egenskaper ved behandlingen. De underordnede behandlingene beskriver de konkrete tilfellene, eksempelvis kameraovervåkning på de enkelte Nav-kontorene.
+Hensikten med en slik struktur er å redusere unødvendig dobbeltregistrering, samtidig som vi beholder nødvendig oversikt over lokale forskjeller.
+Hvis behandlingen skal være overordnet, så velger du det som behandlingstype. Behandlingen må i så fall være ferdig utfylt. Hvis behandlingen du oppretter skal være underordnet en overordnet behandling, velger du det. Deretter søker du opp behandlingen som skal være overordnet i søkefeltet som vises. Kun behandlinger som allerede er angitt som overordnede vil vises i dette søkefeltet. Du kan også velge at eksisterende behandlinger skal være overordnet eller underordnet behandlinger, ved trykke på «Redigér behandling» og endre på samme måte.
+
+![](/img/3.2%20Behandlingstype.png) 
+
+Du kan også opprette en underordnet behandling direkte via en overordnet behandling. Dette gjør du ved å gå til fanen «Underordnede behandlinger», og trykke på «Opprett ny underordnet behandling». Når du oppretter en underordnet behandling på denne måten, arver du innholdet fra den overordnede. Dersom du heller gjør en eksisterende behandling til underordnet, arves ikke innholdet fra den overordnede behandlingen.
+
+![](/img/3.2%Oversikt.png) 
+
+De feltene i den underordnede behandlingen som ikke samsvarer med den overordnede, markeres med en lilla prikk. 
 
 ### 3.2	Hva er formålet  med behandlingen av personopplysningene?
 
