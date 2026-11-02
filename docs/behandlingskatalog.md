@@ -58,8 +58,8 @@ Behandlingskatalogen har en funksjon for å eksportere behandlingsaktivitetene t
 
 ## 3.	Utfylling av feltene i Behandlingskatalogen 
  
-![](/img/3%20Opprett%20behandling_2025_1.png) 
-![](/img/3%20Opprett%20behandling_2025_2.png) 
+![](/img/3%20Opprett%20behandling_2026_1.png) 
+![](/img/3%20Opprett%20behandling_2026_2.png) 
 
 Registreringsbildet i Behandlingskatalogen ser slik ut. Det er lagt inn hjelpetekster til de ulike feltene som kommer frem når man holder musepekeren over det blå ikonet med et spørsmålstegn. 
 
@@ -86,7 +86,23 @@ Fagområdet «Hjelpemidler» kan grupperes under et felles formål:
 
 Behandlingsgrunnlaget følger av folketrygdlovens kap. 10 og er utøvelse av offentlig myndighet etter personvernforordningen, jf. art. 6 (1) e og art. 9 (2) b. Dette taler for at vi kan gruppere det som kun én behandlingsaktivitet. Men siden det er store variasjoner i hvilke kategorier av personopplysninger som behandles, ulikt behandlingsgrunnlag og bruk av tredjeparter som databehandlere, må det likevel deles opp i flere behandlingsaktiviteter.
 
-### 3.2	Hva er formålet  med behandlingen av personopplysningene?
+### 3.2	Overordnet og underordnet behandling
+
+![Skjermbilde av skjemaet der behandlingen velges som enten overordnet, underordnet, eller uten noe kobling til andre. Alternativet "Overordnet andre behandlinger" er valgt. En informasjonsmelding forklarer at behandlingen nå kan brukes som overordnet behandling, og at andre behandlinger som kobles til den automatisk vil arve overordnet behandlingsaktivitet](/img/3.2%20Overordnet%20og%20underordnet%20behandling.png) 
+
+I en stor og desentralisert virksomhet som Nav vil det være mange behandlinger som i hovedsak er av samme karakter, men med eventuelle enkelte variasjoner. Et eksempel på dette er kameraovervåkning. I den overordnede behandlingen beskrives felles egenskaper ved behandlingen. De underordnede behandlingene beskriver de konkrete tilfellene, eksempelvis kameraovervåkning på de enkelte Nav-kontorene.
+Hensikten med en slik struktur er å redusere unødvendig dobbeltregistrering, samtidig som vi beholder nødvendig oversikt over lokale forskjeller.
+Hvis behandlingen skal være overordnet, så velger du det som behandlingstype. Behandlingen må i så fall være ferdig utfylt. Hvis behandlingen du oppretter skal være underordnet en overordnet behandling, velger du det. Deretter søker du opp behandlingen som skal være overordnet i søkefeltet som vises. Kun behandlinger som allerede er angitt som overordnede vil vises i dette søkefeltet. Du kan også velge at eksisterende behandlinger skal være overordnet eller underordnet behandlinger, ved trykke på «Redigér behandling» og endre på samme måte.
+
+![Skjermbilde av skjemaet der behandlingen velges som enten overordnet, underordnet, eller uten noe kobling til andre. Alternativet «Denne behandlingen skal være underordnet en annen» er valgt. Under vises et søkefelt for å finne overordnet behandling, samt en valgt behandling med navnet «Bxxx Navnet til overordnet behandling»](/img/3.2%20Behandlingstype.png) 
+
+Du kan også opprette en underordnet behandling direkte via en overordnet behandling. Dette gjør du ved å gå til fanen «Underordnede behandlinger», og trykke på «Opprett ny underordnet behandling». Når du oppretter en underordnet behandling på denne måten, arver du innholdet fra den overordnede. Dersom du heller gjør en eksisterende behandling til underordnet, arves ikke innholdet fra den overordnede behandlingen.
+
+![Skjermbilde viser oversikten med alle feltene i en behandling. Nederst til høyre er knappen «Opprett ny underordnet behandling» er markert](/img/3.2%20Oversikt.png) 
+
+De feltene i den underordnede behandlingen som ikke samsvarer med den overordnede, markeres med en lilla prikk. 
+
+### 3.3	Hva er formålet  med behandlingen av personopplysningene?
 
 ![](/img/3.2.%20Form%C3%A5let%20med%20behandlingen.png)  
 
@@ -101,7 +117,7 @@ Eksempel på beskrivelse av formål:
 * Tjenesteområde: Ortopediske hjelpemidler
     * Formål: Behandle og vurdere rett til stønad ved behov for nødvendige og hensiktsmessige ortopediske hjelpemidler ved varige og vesentlige funksjonsforstyrrelser i støtte- og bevegelsesorganene
 
-### 3.3	Hvem er ansvarlig for behandlingen?
+### 3.4	Hvem er ansvarlig for behandlingen?
 
 ![](/img/3.3%20Ansvarlig%20for%20behandlingen.png) 
 
@@ -112,7 +128,7 @@ Oppgi navn på avdelingen og enheten/seksjonen i avdelingen eller i styringslinj
 Eksempel:
  Avdeling: Ytelsesavdelingen. Linja: Nav Arbeid og ytelser. Team: Sykdom i familien.
 
-### 3.4	Hva er behandlingsgrunnlaget for behandlingen?
+### 3.5	Hva er behandlingsgrunnlaget for behandlingen?
 
 ![](/img/3.4.%20Behandlingsgrunnlag.png) 
 
@@ -131,7 +147,7 @@ Dersom det rettslige grunnlaget er Art. 6 (1) f, åpnes et nytt felt hvor det m�
 **Dersom særlige kategorier av personopplysninger behandles, må behandlingsgrunnlaget i artikkel 9 spesifiseres**  
 Behandling av særlige kategorier av personopplysninger er i utgangspunktet ikke lov. Personvernforordningen beskriver ti unntak fra dette forbudet. Det riktige unntaket velges i nedtrekksmenyen i registreringsbildet. For Nav vil behandlingsgrunnlaget som hovedregel følge av art. 9 (2) a og b.
 
-### 3.5	Blir det gjort helautomatiserte individuelle avgjørelser og brukes profilering?
+### 3.6	Blir det gjort helautomatiserte individuelle avgjørelser og brukes profilering?
   
 ![](/img/3.5%20Automatisernig%20og%20profilering.png)
 
@@ -143,7 +159,7 @@ Med profilering mener vi enhver form for automatisert behandling som innebærer 
 
 Under dette punktet registreres det «Ja», «Nei» eller «Uavklart». Dersom det registreres at det er uavklart, må dette avklares omgående og etterregistreres. 
 
-### 3.6 Kunstig intelligens
+### 3.7 Kunstig intelligens
 
 ![](/img/3.6%20Kunstig%20intelligens_2025.png)
 
@@ -153,7 +169,7 @@ Hvis personopplysninger som er innhentet for behandlingens formål gjenbrukes ti
 
 Dato for når KI-systemene benyttes skal også registreres.
 
-### 3.7	Databehandlere og utleveringer
+### 3.8	Databehandlere og utleveringer
 **Benyttes det databehandler(e)?**  
 
 ![](/img/3.6%20Databehandler.png)
@@ -208,18 +224,18 @@ Eksempler:
 **Hva er det rettslige grunnlaget for å gjøre unntak fra taushetsplikten?**  
 Når vi skal utlevere personopplysninger, kreves det at vi må ha en hjemmel for å gjøre unntak fra taushetsplikten. Dette registreres under utleveringer. Der kan det også registreres dersom det er gjort en vurdering av grunnlaget for unntak fra taushetsplikten. Dersom dette ikke er vurdert, må det begrunnes.
 
-### 3.8	Annet
+### 3.9	Annet
 **I hvilke systemer behandles personopplysningene?**  
 Angi i hvilke systemer personopplysninger behandles. Med systemer mener vi både interne og eksterne IT-systemer, apper, skytjeneser og plattformer og fysiske og digitale arkiv. Dersom du ikke finner systemet i nedtrekksmenyen i løsningen, må det bes om at det aktuelle systemet legges til, i kanalen #behandlingskatalogen på Slack.
 
-### 3.9	Hvilken tidsfrist har dere satt for hvor lenge personopplysningene skal lagres?
+### 3.10	Hvilken tidsfrist har dere satt for hvor lenge personopplysningene skal lagres?
 
 ![](/img/3.8%20Lagringsbehov.png)  
  
 Etter personvernforordningen skal personopplysninger ikke lagres lenger enn nødvendig for å gjennomføre formålet de er samlet inn for. Etter det skal de slettes. Det er hovedregelen med mindre annen lovgivning pålegger lengre lagringstid, som for eksempel arkivlovgivning og regnskapslovgivning.
 Oppgi om behandlingen omfattes av Navs bevarings- og kassasjonsvedtak  og hvor lenge opplysningene skal lagres. Vis til begrunnelsen for lagringstid ved å legge inn referanse til aktuelt skjema for lagring på Confluence  eller i Public 360. 
 
-### 3.10	Personopplysninger i behandlingen
+### 3.11	Personopplysninger i behandlingen
 
 ![](/img/3.10%20Opplysningstyper.png) 
 
